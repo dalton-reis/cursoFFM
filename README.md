@@ -47,15 +47,15 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     20:00~21:00 (60 min)  
 
-- [Hardware](ExemploHardware.md "Exemplos de Hardware") (10 min): equipamentos e periféricos  
-- [Internos](ExemplosInternos.md "Exemplos Internos") (10 min): produzidos no nosso Grupo  
-- [Externos](ExemplosExternos.md "Exemplos Externos") (10 min): produzidos no geral  
+- [Hardware](ExemploHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
+- [Internos](ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso Grupo  
+- [Externos](ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
 
 ### Dinâmica - Ideias
 
     21:00~22:00 (60 min)   
   
-- Mediador: Dalton  (.. marcar o tempo sempre)
+- Mediador: Dalton (separar em 4 equipes)  
   - (10 min) Preparação das ideias para discussão  
   - (10 min) grupo Realidade Virtual  
   - (10 min) grupo Dispositivos Móveis  
