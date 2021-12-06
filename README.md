@@ -1,37 +1,64 @@
-# 
+# Programa: Realidade Virtual
 
-18:00 (10 min) recepção  
-  .. atrasos  
+Material de pesquisa sobre Realidade Virtual  
 
-18:10 (10 min) quem eu sou  
-  meu currículo  
-  projetos de pesquisa  
-  apresentar o que iremos fazer, e já pedir para eles pensarem em assunto para a Dinâmica no final (prova) ..  
+## Evento
 
-18:20 (80 min) Conceitos
-  RV  
-  DPM  
-  WE  
-  IOT  
-    o que é  
-    pontos positivos  
-    pontos negativos  
-    linha do tempo: passado / atual / .. futuro  
+(2021-II) [Inteligência Artificial na Saúde](https://www.fundacaofritzmuller.com.br/curso/inteligencia-artificial-na-saude/turma/9309e20A "site da Pós em Inteligência Artificial na Saúde da Fundação Fritz Muller")  
+Tecnologias emergentes na saúde - 4h - Dalton Solano dos Reis  
+Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.  
+Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://www.fundacaofritzmuller.com.br "Site da Fundação Fritz Muller")  
 
-19:40 (20 min) Intervalo
-  coffe break
+----------
 
-20:00 (60 min) Exemplos  
-  (10 min) hardware
-  (10 min) exemplos meus  
-  (10 min) exemplos externos  
+## Programação
 
-21:00 (60 min) Dinâmica - Ideias  
-  Mediador: Dalton  
-  (10 min) Preparação das ideias para discussão  
-  (10 min) grupo RV  
-  (10 min) grupo DPM  
-  (10 min) grupo WE
-  (10 min) grupo IOT  
+### Recepção
 
-22:00 encerramento  
+    18:00~18:10 (10 min)  
+
+### Quem eu sou
+
+    18:10~18:20 (10 min)  
+  
+[Mini Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu mini currículo")  
+
+#### Grupos de Pesquisa
+
+[GCG - Grupo de Pesquisa em Computação Gráfica, Processamento de Imagens e Entretenimento Digital](http://gcg.inf.furb.br/ "site do grupo GCG")  
+[TecEdu - Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](http://tecedu.inf.furb.br/ "site do grupo TecEdu")  
+[Tagarela - Rede de Comunicação Alternativa](http://gcg.inf.furb.br/?page_id=992 "site do grupo Tagarela")  
+[Programa Educação Especial](https://github.com/dalton-reis/programa_EducacaoEspecial "site do Programa Educação Especial")  
+
+### Conceitos
+
+    18:20~19:40 (80 min)  
+
+- [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
+- [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+  - Vestíveis (wearables)  
+- [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+
+### Coffe Break
+
+    19:40~20:00 (20 min)  
+  
+### Exemplos Práticos
+
+    20:00~21:00 (60 min)  
+
+- [Hardware](ExemploHardware.md "Exemplos de Hardware") (10 min): equipamentos e periféricos  
+- [Internos](ExemplosInternos.md "Exemplos Internos") (10 min): produzidos no nosso Grupo  
+- [Externos](ExemplosExternos.md "Exemplos Externos") (10 min): produzidos no geral  
+
+### Dinâmica - Ideias
+
+    21:00~22:00 (60 min)   
+  
+- Mediador: Dalton  (.. marcar o tempo sempre)
+  - (10 min) Preparação das ideias para discussão  
+  - (10 min) grupo Realidade Virtual  
+  - (10 min) grupo Dispositivos Móveis  
+  - (10 min) grupo Vestíveis  
+  - (10 min) grupo Internet das Coisas  
+    - (10 min) Fechamento geral  
