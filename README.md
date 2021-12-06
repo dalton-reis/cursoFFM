@@ -56,7 +56,7 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
     21:00~22:00 (60 min)   
   
 - Mediador: Dalton (separar em 4 equipes)  
-  - (10 min) Preparação das ideias para discussão  
+  - (10 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
   - (10 min) grupo Realidade Virtual  
   - (10 min) grupo Dispositivos Móveis  
   - (10 min) grupo Vestíveis  
