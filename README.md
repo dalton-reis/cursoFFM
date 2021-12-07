@@ -35,10 +35,10 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
     18:20~19:40 (80 min)  
 
 - [Conceitos](Conceitos/ "Conceitos sobre as quatro áreas")  
-  - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
-  - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-  - [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
-  - [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+  - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual") (35 min)  
+  - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis") (20 min)  
+  - [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis") (15 min)  
+  - [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas") (10 min)  
 
 ### Coffe Break
 
