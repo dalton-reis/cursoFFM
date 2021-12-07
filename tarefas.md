@@ -4,3 +4,4 @@
 [ ] pasta com marcadores  
 [ ] instalar no celular Sistema Solar / TorreDefender (marcador grande)  
 [ ] OsmoPlay (Esteriotipo do Espelho - IUT)  
+[ ] Ter num Android o ARvore TCC Bruno
