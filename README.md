@@ -47,9 +47,9 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     20:00~21:00 (60 min)  
 
-- [Hardware](Hardware/ExemplosHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
-- [Internos](Hardware/ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso Grupo  
-- [Externos](Hardware/ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
+- [Hardware](HardwareExemplos/ExemplosHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
+- [Internos](HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso Grupo  
+- [Externos](HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
 
 ### Dinâmica - Ideias
 

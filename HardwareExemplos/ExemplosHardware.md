@@ -23,14 +23,14 @@ Alguns usos comuns dos HMD:
 
 ### Mais encorpados
 
-[Oculus Rift](Hardware/OculusRift.png "Oculus Rift")  
+[Oculus Rift](HardwareExemplos/OculusRift.png "Oculus Rift")  
 <https://www.roadtovr.com/oculus-rift-s-specs-release-date-announcement-gdc-2019/>  
   
 Oculos Quest (Facebook)
 
 Oculs Hole Lens (Microsoft)
 
-![OculosHoloLens2.mp4](Hardware/OculosHoloLens2.mp4 "OculosHoloLens2.mp4")  
+![OculosHoloLens2.mp4](HardwareExemplos/OculosHoloLens2.mp4 "OculosHoloLens2.mp4")  
 <https://youtu.be/uIHPPtPBgHk>
 
 Apple .. só especulação
