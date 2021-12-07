@@ -8,3 +8,8 @@ Ideia
 
 
 - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+
+
+Ter um ponto a ser explorado no assunto escolhido
+um do hardware
+um do exemplo
