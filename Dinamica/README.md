@@ -11,6 +11,11 @@ E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca 
 
 Escolham um ideia que poderia se beneficiar com o uso do assunto escolhido na área da sua área da saúde (de preferência)
 
+Gerar um link e um QR-Code para cada Equipe
+
+Na minha home as instruções
+Link e QRCode - No PsotItGoogle o que eles escrevrem
+
 
 formando uma *Mesa Redonda* onde a equipe que escolheu o assunto irá apresentar suas inquietudes.
 

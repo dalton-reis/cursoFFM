@@ -2,6 +2,8 @@
 
     20:00~20:20 (20 min)  
 
+: equipamentos e periféricos
+
 Quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
 
 - [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  

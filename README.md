@@ -13,6 +13,8 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
 ## Programação
 
+O que iremos fazer ...  
+
 ### Recepção
 
     18:00~18:10 (10 min)  
@@ -21,6 +23,7 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     18:10~18:20 (10 min)  
   
+Onde me achar, o que faço ...  
 [Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu currículo")  
 
 #### Grupos de Pesquisa
@@ -34,8 +37,8 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     18:20~19:40 (80 min)  
 
-- [Conceitos](Conceitos/ "Conceitos sobre as quatro áreas")  
-  - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual") (35 min)  
+- [Conceitos](Conceitos/ "Conceitos sobre as quatro áreas") (5 min)  
+  - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual") (30 min)  
   - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis") (20 min)  
   - [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis") (15 min)  
   - [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas") (10 min)  
@@ -48,9 +51,10 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     20:00~21:00 (60 min)  
 
-- [Hardware](HardwareExemplos/ExemplosHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
-- [Internos](HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso grupo  
-- [Externos](HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
+- [Conceitos sobre Hardware](HardwareExemplos/ "Conceitos sobre Hardware") (15 min)  
+- [Hardware](HardwareExemplos/ExemplosHardware.md "Exemplos de Hardware") (15 min)  
+- [Internos](HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (15 min)  
+- [Externos](HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (15 min)  
 
 ### Dinâmica - Ideias
 
@@ -58,8 +62,10 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
 - Mediador: Dalton (separar em 4 equipes)  
   - (10 min) [Preparação das ideias para discussão](Dinamica/README.md "Preparação das ideias para discussão")  
-  - (10 min) [grupo Realidade Virtual](Dinamica/GrupoDispositivosMoveis.md "grupo Realidade Virtual")  
-  - (10 min) [grupo Dispositivos Móveis](Dinamica/GrupoDispositivosMoveis.md "")  
-  - (10 min) [grupo Dispositivos Vestíveis](Dinamica/GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
-  - (10 min) [grupo Internet das Coisas](Dinamica/GrupoRealidadeVirtual.md "")  
+  - (10 min) [Grupo Realidade Virtual](Dinamica/GrupoRealidadeVirtual.md "grupo Realidade Virtual")  
+  - (10 min) [Grupo Dispositivos Móveis](Dinamica/GrupoDispositivosMoveis.md "Grupo Dispositivos Móveis")  
+  - (10 min) [Grupo Dispositivos Vestíveis](Dinamica/GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
+  - (10 min) [Grupo Internet das Coisas](Dinamica/GrupoInternetDasCoisas.md "Grupo Internet das Coisas")  
     - (10 min) Fechamento geral  
+
+E, se conseguirmos chegar até aqui (ainda vivos)... então boa noite 😉  
