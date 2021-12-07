@@ -17,3 +17,5 @@ Pulseiras
 
 Óculos Google Glass
 minha foto usando
+
+Interagir com o watch por gestos
