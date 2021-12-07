@@ -21,7 +21,7 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     18:10~18:20 (10 min)  
   
-[Mini Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu mini currículo")  
+[Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu currículo")  
 
 #### Grupos de Pesquisa
 
