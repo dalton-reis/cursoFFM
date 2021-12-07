@@ -156,6 +156,8 @@ Importância para "enganar" o usuário
 
 Ilusão de Ótica
 
+<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2020i-jonathan-m-kuntz---interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot>
+
 
 ![Interface - camadas](Conceitos/Interface.png "Interface - camadas")  
 

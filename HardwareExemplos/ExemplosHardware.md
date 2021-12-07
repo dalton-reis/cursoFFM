@@ -64,6 +64,8 @@ AirTag
 
 ### Sensor LiDAR
 
+<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#2021-ii-bruno-h-borba---explorar-digitalização-3d-em-tempo-real-utilizando-recursos-ios>
+
 Apple LiDAR
 
 ### Apple Watch
