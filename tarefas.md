@@ -6,7 +6,7 @@
 [ ] OsmoPlay (Esteriotipo do Espelho - IUT)  
 [ ] Ter num Android o ARvore TCC Bruno
 
-
+.. deixar projetando os TCCs (/Volumes/HD_APOIO/GIT/TCC/TCCs_Imgs_Movendo.key) ou proteção tela iTV  
 Levar um tablet para cada Equipe
 Levar um NB para cada Equipe
 CArregador NB e TAblet
