@@ -5,7 +5,7 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Etapas: entrada / Processo / Saída
 ![etapas](EPS.drawio.svg "etapas")  
   
-- Tipo de informação: raster ou vetorial  
+- Tipo de informação: raster (pixels/voxels) ou vetorial  
   - Sistemas Multimidia
     - texto (OCR)
     - imagem
@@ -13,9 +13,10 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
     - video
     - stremming
   
-- Dimensão da informação: 1D, 2D, 3D, 4D, 5D .. nD
+- Dimensão da informação: 1D, 2D, 2D 1/2, 3D, 4D, 5D .. nD
   
 imagem dos eixos em CG, em Física e Medicina
 
+- Tipo de Referência: absoluta / relativa  
 
 a complexidade da tecnologia pensando 

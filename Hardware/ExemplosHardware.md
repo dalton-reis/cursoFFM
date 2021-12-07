@@ -30,6 +30,9 @@ Oculos Quest (Facebook)
 
 Oculs Hole Lens (Microsoft)
 
+![OculosHoloLens2.mp4](Hardware/OculosHoloLens2.mp4 "OculosHoloLens2.mp4")  
+<https://youtu.be/uIHPPtPBgHk>
+
 Apple .. só especulação
 
 ### Só um suporte
