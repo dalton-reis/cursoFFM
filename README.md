@@ -34,31 +34,31 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     18:20~19:40 (80 min)  
 
-- [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
-- [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-  - Vestíveis (wearables)  
-- [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+- [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
+- [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+- [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+- [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
 ### Coffe Break
 
     19:40~20:00 (20 min)  
   
-### Exemplos Práticos
+### Hardware e Exemplos
 
     20:00~21:00 (60 min)  
 
-- [Hardware](ExemploHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
-- [Internos](ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso Grupo  
-- [Externos](ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
+- [Hardware](Hardware/ExemplosHardware.md "Exemplos de Hardware") (20 min): equipamentos e periféricos  
+- [Internos](Hardware/ExemplosInternos.md "Exemplos Internos") (20 min): produzidos no nosso Grupo  
+- [Externos](Hardware/ExemplosExternos.md "Exemplos Externos") (20 min): produzidos no geral  
 
 ### Dinâmica - Ideias
 
     21:00~22:00 (60 min)   
-  
+
 - Mediador: Dalton (separar em 4 equipes)  
-  - (10 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
-  - (10 min) grupo Realidade Virtual  
-  - (10 min) grupo Dispositivos Móveis  
-  - (10 min) grupo Vestíveis  
-  - (10 min) grupo Internet das Coisas  
+  - (10 min) [Preparação das ideias para discussão](Dinamica/README.md "Preparação das ideias para discussão")  
+  - (10 min) [grupo Realidade Virtual](GrupoDispositivosMoveis.md "grupo Realidade Virtual")  
+  - (10 min) [grupo Dispositivos Móveis](GrupoDispositivosMoveis.md "")  
+  - (10 min) [grupo Dispositivos Vestíveis](GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
+  - (10 min) [grupo Internet das Coisas](GrupoRealidadeVirtual.md "")  
     - (10 min) Fechamento geral  
