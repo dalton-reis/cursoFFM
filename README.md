@@ -1,9 +1,5 @@
 # Tecnologias Emergentes na Saúde
 
-Material de pesquisa sobre Realidade Virtual  
-
-## Evento
-
 (2021-II) [Inteligência Artificial na Saúde](https://www.fundacaofritzmuller.com.br/curso/inteligencia-artificial-na-saude/turma/9309e20A "site da Pós em Inteligência Artificial na Saúde da Fundação Fritz Muller")  
 Tecnologias emergentes na saúde - 4h - Dalton Solano dos Reis  
 Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.  

@@ -9,6 +9,8 @@ Ideia
 
 - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
 
+Um exemplo de uso da seu assunto no Geral
+Um exemplo de uso da seu assunto no Medicina
 
 Ter um ponto a ser explorado no assunto escolhido
 um do hardware
