@@ -1,4 +1,4 @@
-# Programa: Realidade Virtual
+# Tecnologias Emergentes na Saúde
 
 Material de pesquisa sobre Realidade Virtual  
 
@@ -34,10 +34,11 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
     18:20~19:40 (80 min)  
 
-- [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
-- [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-- [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
-- [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+- [Conceitos](Conceitos/) "Conceitos sobre as quatro áreas")  
+  - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
+  - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+  - [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+  - [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
 ### Coffe Break
 
