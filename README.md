@@ -57,8 +57,8 @@ Data: 10/12/2021 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://
 
 - Mediador: Dalton (separar em 4 equipes)  
   - (10 min) [Preparação das ideias para discussão](Dinamica/README.md "Preparação das ideias para discussão")  
-  - (10 min) [grupo Realidade Virtual](GrupoDispositivosMoveis.md "grupo Realidade Virtual")  
-  - (10 min) [grupo Dispositivos Móveis](GrupoDispositivosMoveis.md "")  
-  - (10 min) [grupo Dispositivos Vestíveis](GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
-  - (10 min) [grupo Internet das Coisas](GrupoRealidadeVirtual.md "")  
+  - (10 min) [grupo Realidade Virtual](Dinamica/GrupoDispositivosMoveis.md "grupo Realidade Virtual")  
+  - (10 min) [grupo Dispositivos Móveis](Dinamica/GrupoDispositivosMoveis.md "")  
+  - (10 min) [grupo Dispositivos Vestíveis](Dinamica/GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
+  - (10 min) [grupo Internet das Coisas](Dinamica/GrupoRealidadeVirtual.md "")  
     - (10 min) Fechamento geral  
