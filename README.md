@@ -19,15 +19,15 @@ O que iremos fazer ...
 
     18:10~18:20 (10 min)  
   
-Onde me achar, o que faço ...  
-[Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu currículo")  
+Onde me achar, o que faço etc...  
+    [Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Meu currículo")  
 
 #### Grupos de Pesquisa
 
-[GCG - Grupo de Pesquisa em Computação Gráfica, Processamento de Imagens e Entretenimento Digital](http://gcg.inf.furb.br/ "site do grupo GCG")  
-[TecEdu - Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](http://tecedu.inf.furb.br/ "site do grupo TecEdu")  
-[Tagarela - Rede de Comunicação Alternativa](http://gcg.inf.furb.br/?page_id=992 "site do grupo Tagarela")  
-[Programa Educação Especial](https://github.com/dalton-reis/programa_EducacaoEspecial "site do Programa Educação Especial")  
+    [GCG - Grupo de Pesquisa em Computação Gráfica, Processamento de Imagens e Entretenimento Digital](http://gcg.inf.furb.br/ "site do grupo GCG")  
+    [TecEdu - Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](http://tecedu.inf.furb.br/ "site do grupo TecEdu")  
+    [Tagarela - Rede de Comunicação Alternativa](http://gcg.inf.furb.br/?page_id=992 "site do grupo Tagarela")  
+    [Programa Educação Especial](https://github.com/dalton-reis/programa_EducacaoEspecial "site do Programa Educação Especial")  
 
 ### Conceitos
 
