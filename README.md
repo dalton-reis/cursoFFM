@@ -52,20 +52,21 @@ Onde me achar, o que faço ...
     20:00~21:00 (60 min)  
 
 - [Conceitos sobre Hardware](HardwareExemplos/ "Conceitos sobre Hardware") (15 min)  
-- [Hardware](HardwareExemplos/ExemplosHardware.md "Exemplos de Hardware") (15 min)  
-- [Internos](HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (15 min)  
-- [Externos](HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (15 min)  
+  - [Hardware](HardwareExemplos/ExemplosHardware.md "Exemplos de Hardware") (15 min)  
+  - [Internos](HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (15 min)  
+  - [Externos](HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (15 min)  
 
 ### Dinâmica - Ideias
 
     21:00~22:00 (60 min)   
 
-- Mediador: Dalton (separar em 4 equipes)  
-  - (10 min) [Preparação das ideias para discussão](Dinamica/README.md "Preparação das ideias para discussão")  
+Mediador: Dalton (separar em 4 equipes)  
+
+- (10 min) [Preparação das ideias para discussão](Dinamica/README.md "Preparação das ideias para discussão")  
   - (10 min) [Grupo Realidade Virtual](Dinamica/GrupoRealidadeVirtual.md "grupo Realidade Virtual")  
   - (10 min) [Grupo Dispositivos Móveis](Dinamica/GrupoDispositivosMoveis.md "Grupo Dispositivos Móveis")  
   - (10 min) [Grupo Dispositivos Vestíveis](Dinamica/GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis")  
   - (10 min) [Grupo Internet das Coisas](Dinamica/GrupoInternetDasCoisas.md "Grupo Internet das Coisas")  
-    - (10 min) Fechamento geral  
+- (10 min) Fechamento geral  
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boa noite 😉  
