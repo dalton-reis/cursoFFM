@@ -1,6 +1,6 @@
 # Conceitos
 
-![Conceitos](areas.drawio.svg.drawio.svg "conceitos)  
+![Conceitos](areas.drawio.svg "conceitos")  
 
 - [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
 - [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
