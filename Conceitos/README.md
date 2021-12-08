@@ -6,14 +6,14 @@ Bom, vamos retomar a questão inicial proposta
 
 em quatro horas (e com direito a um café) 🙁 .. grande desafio.  
 
-Entres estes assuntos vamos nos concentrar em quatro assuntos:
+Entres estes vamos nos concentrar em quatro assuntos:
 
 ![Conceitos](areas.drawio.svg "conceitos")  
 
-- [Realidade Virtual](Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
-- [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-- [Dispositivos Vestíveis](Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
-- [Internet das Coisas (IOT)](Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+- [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
+- [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+- [Dispositivos Vestíveis](DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+- [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
 Para isto vamos olhar:  
 
