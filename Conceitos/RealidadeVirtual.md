@@ -1,6 +1,8 @@
 # Conceitos: Realidade Virtual
 
-## Termos
+## Introdução
+
+### Termos
 
 **Imersão**: sentimento de estar-se dentro do ambiente  
 
@@ -18,13 +20,7 @@ Primeiro capacete de realidade virtual Helmet was made in 1967
 
 ## Tipos de Realidades
 
-- Realidades Virtual  
-- Realidades Virtual Imersiva  
-- Realidades Virtual Diminuída  
-- Realidades Virtual Aumentada  
-- Realidades Virtual Misturada  
-- Realidades Virtual Alternativa  
-- Metaverso  
+Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades existentes.  
 
 ### Realidades Virtual
 
@@ -107,37 +103,7 @@ Combinação de situações do virtual com o real.
 • Incentiva que os usuários saiam para capturar pokemons.
 • Em locais públicos tem ginásios (para batalha) e pokestops.
 
-### Na prática
-
-- Cavernas Virtuais (Cave Virtual)
-![CavernasVirtuais](CavernasVirtuais.png "CavernasVirtuais")  
-![CavernasVirtuaisMedicina.png](CavernasVirtuaisMedicina.png "CavernasVirtuaisMedicina.png")  
-![CavernasVirtuaisIndustriaCarro](CavernasVirtuaisIndustriaCarro.png "CavernasVirtuaisIndustriaCarro")  
-![CavernasVirtuaisSimulador.png](CavernasVirtuaisSimulador.png "CavernasVirtuaisSimulador.png")  
-
-- Simuladores de Diversão
-
-![Diversao](Diversao.png "Diversao")  
-
-- VirtuSphere
-large plastic globe in which people, wearing a head-mounted display, can put themselves in any kind of virtual environment.
-University of Washington at Seattle being used in a military simulation
-![VirtuSphere](VirtuSphere.png "VirtuSphere")  
-
-- Chroma Key  
-
-- Aplicações usando óculos "dedicados"  
-
-- Aplicações usando óculos "simples" + smartphones  
-
-- Metaverso  
-
-### Mundo Virtual x Mundo Real
-
-- tudo no mundo virtual
-- nos dois "mundos"
-    - âncoras no mundo real
-    - marcadores
+### Metaverso  
 
 
 ### Interface de Usuário Tangível (IUT)
@@ -172,3 +138,37 @@ Assim o objto parece estar atras da parede. Imagem da ilusoa de otica de um tria
 Ideias .. olhando TCC do Alan .. ter um aplicativo de RV Imerssiva usando cardBoard para simular uma explicação de como funciona o exame de ressonancia e tentar fazer um exame virtual antes para diminuir o medo do ambiente fechado.
 
 AirTag
+
+
+
+- Metaverso  
+
+### Mundo Virtual x Mundo Real
+
+- tudo no mundo virtual
+- nos dois "mundos"
+    - âncoras no mundo real
+    - marcadores
+
+### Na prática
+
+- Cavernas Virtuais (Cave Virtual)
+![CavernasVirtuais](CavernasVirtuais.png "CavernasVirtuais")  
+![CavernasVirtuaisMedicina.png](CavernasVirtuaisMedicina.png "CavernasVirtuaisMedicina.png")  
+![CavernasVirtuaisIndustriaCarro](CavernasVirtuaisIndustriaCarro.png "CavernasVirtuaisIndustriaCarro")  
+![CavernasVirtuaisSimulador.png](CavernasVirtuaisSimulador.png "CavernasVirtuaisSimulador.png")  
+
+- Simuladores de Diversão
+
+![Diversao](Diversao.png "Diversao")  
+
+- VirtuSphere
+large plastic globe in which people, wearing a head-mounted display, can put themselves in any kind of virtual environment.
+University of Washington at Seattle being used in a military simulation
+![VirtuSphere](VirtuSphere.png "VirtuSphere")  
+
+- Chroma Key  
+
+- Aplicações usando óculos "dedicados"  
+
+- Aplicações usando óculos "simples" + smartphones  
