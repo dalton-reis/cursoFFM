@@ -10,47 +10,39 @@
 
 **Envolvimento**: tange ao grau de motivação para a ligação da pessoa com uma determinada atividade  
 
+**Mundo Real**: mundo físico onde vivemos  
+
+**Mundo Virtual**: mundo modelado virtualmente por modelos de computação gráfica que podem simular o mundo real  
+
 ### História
 
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
 ![Sensorama](RealidadeVirtual_imgs/HistoriaSensorama.png "Sensorama")  
 
-Primeiro capacete de realidade virtual Helmet was made in 1967  
+Primeiro capacete de realidade virtual (HMD) Helmet was made in 1967  
 ![Helmet](RealidadeVirtual_imgs/Helmet.png "Helmet")  
 
 ## Tipos de Realidades
 
-Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades existentes.  
+Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Diminuída, Realidades Virtual Aumentada, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
 
-### Realidades Virtual
+### Realidades Virtual Imersiva (RV / RVi)
 
-- Representação do mundo virtual  
+A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.
 
-Azuma   (1997)   define   que aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em tempo real e usar 3D.
+- Representação do mundo virtual que permita a imersão do usuário  
+- Controlando os “sentidos” proporciona imersão, geralmente se usa HMD (displays estereoscópicos)  
+- Poder interagir ou não com o que vê ao seu redor  
 
-A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em imersiva e não-imersiva. É imersiva quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é não-imersiva quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção
+A Realidade Virtual Imersiva procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada, mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
-(TORI; KIRNER; SISCOTO, 2006)
+### Realidades Virtual Aumentada  
 
-A RV procura trazer o usuário da aplicação para o ambiente virtual, já a RA, mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação
-(TORI; KIRNER; SISCOTO, 2006)
+As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em tempo real e usar 3D.  
 
-
-
-Um ambiente virtual no qual o usuário pode se inserir como se estivesse mesmo ali, mas tudo não passa de um sistema computacional
-• Induz efeitos visuais e sonoros, permitindo total imersão no ambiente simulado virtualmente.
-• O usuário pode interagir ou não com o que vê ao seu redor, dependendo das possibilidades do
-sistema utilizado.
-• Utilizado normalmente em displays estereoscópicos (tais como os populares headsets, óculos
-especiais para exibir o ambiente simulado)
-• Aplicado em sistemas educacionais, treinamentos militares
-
-<https://canaltech.com.br/rv-ra/o-que-e-realidade-virtual-conheca-esta-tecnologia-que-pode-mudar-o-mundo-154999/>
-
-### Realidades Virtual Imersiva
-
-- Controlando os “sentidos” proporciona imersão  
-- geralmente se usa HMD  
+- Mistura do virtual com real  
+- único sentido: do virtual p/ real ou real p/ virtual  
+- Necessidade de marcadores (âncoras) no mundo real  
 
 ### Realidades Virtual Diminuída
 
@@ -67,18 +59,6 @@ precisam ser removidos
 • In Painting: Tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem
 <https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  
 
-### Realidades Virtual Aumentada  
-
-Mistura do virtual com real
-único sentido: do virtual p/ real ou real p/ virtual
-TCC Android e iOS (Gabriela / Paulo - Alan)
-
-Consiste na combinação de elementos de um ambiente real com outros elementos de um ambiente virtual que são criados em três dimensões. Ao mesmo tempo, esses dois elementos se combinam em tempo real.
-• São necessários um software, um marcador no mundo físico e o GPS.
-• Através da tecnologia, é possível, por exemplo, ver a planta de um apartamento em 3D, simular
-procedimentos médicos e aproximar conteúdos de estudantes.
-<https://queconceito.com.br/realidade-aumentada>  
-<https://olhardigital.com.br/2019/06/29/internet-e-redes-sociais/realidade-aumentada-voce-sabe-o-que-e/>  
 
 ### Realidades Virtual Misturada
 
