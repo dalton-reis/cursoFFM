@@ -1,22 +1,16 @@
-# Realidade Virtual
+# Conceitos: Realidade Virtual
 
-## Ceonceitos
+## Termos
 
-Imersão: 
-Idéia, sentimento de estar-se dentro do ambiente
-Obtida: capacete (mais comum) ou com salas de projeção
+**Imersão**: sentimento de estar-se dentro do ambiente  
 
-Além do fator visual, os outros dispositivos, ligados aos sentidos restantes também são importantes, pois é necessário detectar a posição da pessoa, os controles reativos, etc.
+**Interação**: está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele  
 
-Interação:
-A idéia de interação está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele
-
-Envolvimento:
-Já a idéia de envolvimento tange ao grau de motivação para a ligação da pessoa com uma determinada atividade
+**Envolvimento**: tange ao grau de motivação para a ligação da pessoa com uma determinada atividade  
 
 ### História
 
-Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.
+Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
 ![Sensorama](HistoriaSensorama.png "Sensorama")  
 
 Helmet was made in 1967  
