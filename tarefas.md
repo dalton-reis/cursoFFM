@@ -1,4 +1,17 @@
-# fazer
+# Tarefas
+
+## Material para demonstração
+
+- óculos de estereoscopia: anaglifo, passivo e ativo
+- webcam com fio
+- drone mochila
+- cabo ipad (meu com mal contato)
+- AirTag (bicicleta)
+- aquário virtual
+- projeto mini
+- celular + projetor
+
+## fazer
 
 [ ] imprimir quatro folhas para dobrar em forma de triângulo com o nome do seu grupo  
 [ ] pasta com marcadores  
