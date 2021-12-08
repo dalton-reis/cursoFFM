@@ -2,7 +2,7 @@
 
 Bom, vamos retomar a questão inicial proposta  
 
-  "Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.  
+  *"Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.*  
 
 em quatro horas (e com direito a um café) 🙁 .. grande desafio.  
 
