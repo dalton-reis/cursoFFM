@@ -23,8 +23,9 @@ Para isto vamos olhar:
 - relações entre usuário x aplicação (hardware e software)  
 - exemplos comuns, e outros nem tanto  
 
-A assim despertar algumas inquietações:
+A assim despertar algumas:
 
+- inquietações  
 - dúvidas
 - curiosidades
 - preocupações
