@@ -66,3 +66,5 @@ Mediador: Dalton (separar em 4 equipes)
 - (10 min) Fechamento geral  
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boa noite 😉  
+
+Ahh, algumas coisas legais sobre robótica <https://www.engineeredarts.co.uk/video-gallery/>  
