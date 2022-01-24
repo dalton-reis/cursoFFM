@@ -1,6 +1,10 @@
 # Conceitos: Realidade Virtual
 
+[FIXME:] olhar <https://github.com/tecedufurb/habitat/blob/main/bolsistas/AdamOliveira/pesquisaAquarioVirtual.pdf>
+
 ## Introdução
+
+FIXME: preâmbulo
 
 ### Termos
 
@@ -17,10 +21,19 @@
 ### História
 
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
-![Sensorama](RealidadeVirtual_imgs/HistoriaSensorama.png "Sensorama")  
+![Sensorama](RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
 
 Primeiro capacete de realidade virtual (HMD) Helmet was made in 1967  
-![Helmet](RealidadeVirtual_imgs/Helmet.png "Helmet")  
+![Helmet](RealidadeVirtual_imgs/Historia_Helmet.png "Helmet")  
+
+Sistema criado por Ivan Sutherland no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia (AZUMA, 1995, p. 1). Como outras tecnologias a realidade aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (tracking) de tecnologia (EKENGREN, 2009, p. 5) (HÖLLERER; FEINER, 2004, p. 2).  
+![Ivan Sutherland](RealidadeVirtual_imgs/Historia_IvanSutherland.png "Ivan Sutherland")  
+
+O conceito da realidade aumentada de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de realidade aumentada para ambientes externos utilizando as coordenadas do GP S (Global Positioning System – Sistema de Posicionamento Global) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
+
+## Tipos de Visualização
+
+Video See-Through, Optical See-Through, Projetiva FIXME: mais formas, imagens para cada forma.  
 
 ## Tipos de Realidades
 
@@ -47,7 +60,7 @@ As aplicações que usam Realidade Aumentada devem ter três características: c
 ### Realidades Virtual Diminuída
 
 "Esconde" objetos do mundo real com os do mundo virtual
-https://www.youtube.com/watch?v=l_GtDezeA2w
+<https://www.youtube.com/watch?v=l_GtDezeA2w>
 
 Permite que o usuário remova objetos de vídeos em tempo real.
 • Pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
@@ -58,7 +71,6 @@ precisam ser removidos
 • Observacional: utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem.
 • In Painting: Tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem
 <https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  
-
 
 ### Realidades Virtual Misturada
 
@@ -75,7 +87,7 @@ Combinação de processamento do computador, entrada humana e entrada do ambient
 ### Realidades Virtual Alternativa  
 
 Jogo de realidade alternativa do Google chega ao iOS
-http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050
+<http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
 
 Combinação de situações do virtual com o real.
 • Transforma o mundo real em um cenário para a interação do usuário.
@@ -84,7 +96,6 @@ Combinação de situações do virtual com o real.
 • Em locais públicos tem ginásios (para batalha) e pokestops.
 
 ### Metaverso  
-
 
 ### Interface de Usuário Tangível (IUT)
 
@@ -98,9 +109,7 @@ Ilusão de Ótica
 
 <https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2020i-jonathan-m-kuntz---interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot>
 
-
 ![Interface - camadas](Conceitos/Interface.png "Interface - camadas")  
-
 
 displays estereoscópicos (tais como os populares headsets, óculos
 especiais para exibir o ambiente simulado)
@@ -113,13 +122,11 @@ especiais para exibir o ambiente simulado)
 marcador no mundo físico
 
 LiDAR e cameras .. pode colocar um objeto virtual depois de uma esquina ... usar uma parede do mundo real para ocultar parte do objeto.
-Assim o objto parece estar atras da parede. Imagem da ilusoa de otica de um triangulo atras de um circulo, mas na verdade e um triangulo e um come-come.
+Assim o objeto parece estar atrás da parede. Imagem da ilusão de ótica de um triangulo atrás de um circulo, mas na verdade e um triangulo e um come-come.
 
-Ideias .. olhando TCC do Alan .. ter um aplicativo de RV Imerssiva usando cardBoard para simular uma explicação de como funciona o exame de ressonancia e tentar fazer um exame virtual antes para diminuir o medo do ambiente fechado.
+Ideias .. olhando TCC do Alan .. ter um aplicativo de RV Imersiva usando cardBoard para simular uma explicação de como funciona o exame de ressonância e tentar fazer um exame virtual antes para diminuir o medo do ambiente fechado.
 
 AirTag
-
-
 
 - Metaverso  
 
@@ -127,8 +134,8 @@ AirTag
 
 - tudo no mundo virtual
 - nos dois "mundos"
-    - âncoras no mundo real
-    - marcadores
+  - âncoras no mundo real
+  - marcadores
 
 ### Na prática
 
@@ -140,7 +147,7 @@ AirTag
 
 - Simuladores de Diversão
 
-![Diversao](Diversao.png "Diversao")  
+![Diversão](Diversao.png "Diversão")  
 
 - VirtuSphere
 large plastic globe in which people, wearing a head-mounted display, can put themselves in any kind of virtual environment.
@@ -151,4 +158,15 @@ University of Washington at Seattle being used in a military simulation
 
 - Aplicações usando óculos "dedicados"  
 
-- Aplicações usando óculos "simples" + smartphones  
+- Aplicações usando óculos "simples" + smartphones
+
+----------
+
+### Principais Referências Bibliográficas​
+
+/Volumes/HD_APOIO/GIT/Projetos/programa_Habitat/habitat/bolsistas/AdamOliveira/pesquisaAquarioVirtual.pdf
+AZUMA, 1995
+EKENGREN, 2009 / HÖLLERER; FEINER, 2004
+
+- CARBONI, Irenice de Fátima. **[Lógica de programação](https://bu.furb.br/consulta/portalConsulta/recuperaMfnCompleto.php?menu=rapida&CdMFN=265888)**. São Paulo : Pioneira Thomson Learning, 2003. 240 p, il.​
+- MANZANO,
