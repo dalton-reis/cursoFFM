@@ -21,9 +21,9 @@ Para isto vamos olhar:
 - a relação entre estes assuntos (suas regiões de intersecção)  
 - relação temporal: passado, presente e "futuro"  
 - relações entre usuário x aplicação (hardware e software)  
-- exemplos comuns, e outros nem tanto  
+- exemplos comuns, e outros nem tanto ...  
 
-A assim despertar algumas:
+Com a intenção de despertar algumas:
 
 - inquietações  
 - dúvidas
