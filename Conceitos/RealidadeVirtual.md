@@ -23,7 +23,7 @@
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
 ![Sensorama](RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
 
-Primeiro capacete de realidade virtual (HMD) Helmet was made in 1967  
+Primeiro capacete de realidade virtual (Head Mounted Display - HMD) Helmet was made in 1967  
 ![Helmet](RealidadeVirtual_imgs/Historia_Helmet.png "Helmet")  
 
 Sistema criado por Ivan Sutherland no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia (AZUMA, 1995, p. 1). Como outras tecnologias a realidade aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (tracking) de tecnologia (EKENGREN, 2009, p. 5) (HÖLLERER; FEINER, 2004, p. 2).  
@@ -162,7 +162,7 @@ University of Washington at Seattle being used in a military simulation
 
 ----------
 
-### Principais Referências Bibliográficas​
+## Principais Referências Bibliográficas​
 
 /Volumes/HD_APOIO/GIT/Projetos/programa_Habitat/habitat/bolsistas/AdamOliveira/pesquisaAquarioVirtual.pdf
 AZUMA, 1995
