@@ -1,6 +1,6 @@
 # Conceitos: Realidade Virtual
 
-[FIXME:] olhar <https://github.com/tecedufurb/habitat/blob/main/bolsistas/AdamOliveira/pesquisaAquarioVirtual.pdf>
+FIXME: preâmbulo
 
 ## Introdução
 
