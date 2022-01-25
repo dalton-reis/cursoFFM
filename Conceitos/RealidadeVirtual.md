@@ -20,7 +20,7 @@
 
 ### História
 
-Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
+Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
 ![Sensorama](RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
 
 Primeiro capacete de realidade virtual (HMD) Helmet was made in 1967  
