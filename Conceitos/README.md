@@ -10,7 +10,7 @@ Entres estes vamos nos concentrar em quatro assuntos:
 
 ![Conceitos](areas.drawio.svg "conceitos")  
 
-- [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
+- [Realidade Virtual (RV)](RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
 - [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
 - [Dispositivos Vestíveis](DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
 - [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
