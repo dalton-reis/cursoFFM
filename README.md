@@ -3,7 +3,7 @@
 (2021-II) [Inteligência Artificial na Saúde](https://www.fundacaofritzmuller.com.br/curso/inteligencia-artificial-na-saude/turma/9309e20A "site da Pós em Inteligência Artificial na Saúde da Fundação Fritz Muller")  
 Tecnologias emergentes na saúde - 4h - Dalton Solano dos Reis  
 Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.  
-FIXME:Data: / /2022 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://www.fundacaofritzmuller.com.br "Site da Fundação Fritz Muller")  
+<!-- FIXME: --> Data: / /2022 - 18:00~22:00 - local: [FFM - Fundação Fritz Muller](https://www.fundacaofritzmuller.com.br "Site da Fundação Fritz Muller")  
 
 ----------
 
