@@ -1,10 +1,10 @@
 # Conceitos: Realidade Virtual
 
-<!--FIXME: preâmbulo-->
+<!-- FIXME: preâmbulo -->
 
 ## Introdução
 
-<!--FIXME: preâmbulo-->
+<!-- FIXME: preâmbulo -->
 
 ### Termos
 
