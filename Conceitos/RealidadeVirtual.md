@@ -33,7 +33,8 @@ O conceito da Realidade Aumentada de sobreposição de objetos virtuais em obj
 
 ## Tipos de Visualização
 
-Video See-Through, Optical See-Through, Projetiva FIXME: mais formas, imagens para cada forma.  
+<!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
+Video See-Through, Optical See-Through, Projetiva ...  
 
 ## Tipos de Realidades
 
