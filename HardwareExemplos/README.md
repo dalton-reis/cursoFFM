@@ -20,3 +20,7 @@ imagem dos eixos em CG, em Física e Medicina
 - Tipo de Referência: absoluta / relativa  
 
 a complexidade da tecnologia pensando 
+
+Obtida: capacete (mais comum) ou com salas de projeção
+
+Além do fator visual, os outros dispositivos, ligados aos sentidos restantes também são importantes, pois é necessário detectar a posição da pessoa, os controles reativos, etc.
