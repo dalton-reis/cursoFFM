@@ -1,22 +1,22 @@
 # Conceitos: Realidade Virtual
 
-FIXME: preâmbulo
+<!--FIXME: preâmbulo-->
 
 ## Introdução
 
-FIXME: preâmbulo
+<!--FIXME: preâmbulo-->
 
 ### Termos
 
-**Imersão**: sentimento de estar-se dentro do ambiente  
+**Imersão**: sentimento de estar-se dentro do ambiente.  
 
-**Interação**: está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele  
+**Interação**: está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele.  
 
-**Envolvimento**: tange ao grau de motivação para a ligação da pessoa com uma determinada atividade  
+**Envolvimento**: tange ao grau de motivação para a ligação da pessoa com uma determinada atividade.  
 
-**Mundo Real**: mundo físico onde vivemos  
+**Mundo Real**: mundo físico onde vivemos.  
 
-**Mundo Virtual**: mundo modelado virtualmente por modelos de computação gráfica que podem simular o mundo real  
+**Mundo Virtual**: mundo modelado virtualmente por modelos de computação gráfica que podem simular o mundo real.  
 
 ### História
 
