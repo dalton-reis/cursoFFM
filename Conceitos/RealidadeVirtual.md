@@ -1,4 +1,4 @@
-# Conceitos: Realidade Virtual
+# Conceitos: Realidade Virtual (RV)
 
 <!-- FIXME: preâmbulo -->
 

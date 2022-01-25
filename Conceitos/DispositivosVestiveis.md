@@ -1,5 +1,4 @@
-  -  (wearables)  
-
+# Dispositivos Vestíveis (wearables)
 
 Apple Watch
 
