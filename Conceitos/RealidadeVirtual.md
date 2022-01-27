@@ -144,7 +144,10 @@ Estereoscopia é uma técnica usada para se obter informações do espaço tridi
 
 A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.  
 
-displays Estereoscópicos (tais como os populares headsets, óculos especiais para exibir o ambiente simulado)
+Ainda de tem os tipos de projeção Estereoscópica passiva e ativa. FIXME: passiva é o Anaglifo.
+
+FIXME: displays Estereoscópicos (tais como os populares headsets, óculos especiais para exibir o ambiente simulado)
+FIXME: mais exemplo ... seria no Hardware?
 
 #### Anaglifo
 
@@ -157,6 +160,7 @@ Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornec
 ### Mundo Virtual x Mundo Real
 
 marcador no mundo físico
+
 - tudo no mundo virtual
 - nos dois "mundos"
   - âncoras no mundo real
@@ -172,8 +176,6 @@ Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
 .. ter algumas placas com texto em idiomas (inglês e Russo) para mostrar a tradução.
 
 Usar o celular para traduzir a placa projetada na porta
-
-
 
 ----------
 
