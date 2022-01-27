@@ -18,6 +18,8 @@
 
 **Mundo Virtual**: mundo modelado virtualmente por modelos de computação gráfica que podem simular o mundo real.  
 
+**Credibilidade**: o quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
+
 ### História
 
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
@@ -36,7 +38,7 @@ O conceito da Realidade Aumentada de sobreposição de objetos virtuais em obj
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
 Video See-Through, Optical See-Through, Projetiva ...  
 
-## Tipos de Realidades
+## Tipos de Realidades Virtuais
 
 Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Aumentada, Realidades Virtual Diminuída, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
 
@@ -113,81 +115,65 @@ Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que 
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. O
-
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, usando SharePlay na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos. Curta uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo.
 
 #### Críticas e preocupações
 
 A privacidade das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
 O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
-O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa, o Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.  
-
-<!-- FIXME: explicar melhor e ter um exemplo Exemplo da Apple que permite assistir um filme usando uma chamada de Facetime com outra pessoa distante. -->
+O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.  
 
 ### Interface de Usuário Tangível (IUT)
 
 Um conjunto de componentes que auxiliam na interação entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
 
-Então, "como percebemos o mundo a nossa volta" ...  
-![Percepção do usuário](UsuarioSentidos.drawio.svg "Percepção do usuário")  
+Então, "como percebemos o mundo a nossa volta" ... qual "Interface" é utilizada?  
+![Percepção do usuário](RealidadeVirtual_imgs/UsuarioSentidos.drawio.svg "Percepção do usuário")  
 
-Figura de um apessoa e o mundo e os sentidos (CG) percebem o mundo
-Importância para "enganar" o usuário
+A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a Imersão, Interação e Envolvimento (os pilares das Realidades Virtuais) do usuário entre o Mundo Real e Mundo Virtual. A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
 
-Ilusão de Ótica
+![Interface - camadas](RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
 
-<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2020i-jonathan-m-kuntz---interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot>
+### Estereoscopia
 
-![Interface - camadas](Conceitos/Interface.png "Interface - camadas")  
+Como um dos principais sentidos explorado nas Realidades Virtuais é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a Realidade Virtual Imersiva se tem a Estereoscopia.
 
-displays estereoscópicos (tais como os populares headsets, óculos
-especiais para exibir o ambiente simulado)
+Estereoscopia é uma técnica usada para se obter informações do espaço tridimensional, através da análise de duas imagens obtidas em pontos diferentes.
 
-    o que é  
-    pontos positivos  
-    pontos negativos  
-    linha do tempo: passado / atual / .. futuro  
+![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](RealidadeVirtual_imgs\EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
 
-marcador no mundo físico
+A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.  
 
-LiDAR e cameras .. pode colocar um objeto virtual depois de uma esquina ... usar uma parede do mundo real para ocultar parte do objeto.
-Assim o objeto parece estar atrás da parede. Imagem da ilusão de ótica de um triangulo atrás de um circulo, mas na verdade e um triangulo e um come-come.
+displays Estereoscópicos (tais como os populares headsets, óculos especiais para exibir o ambiente simulado)
 
-Ideias .. olhando TCC do Alan .. ter um aplicativo de RV Imersiva usando cardBoard para simular uma explicação de como funciona o exame de ressonância e tentar fazer um exame virtual antes para diminuir o medo do ambiente fechado.
+#### Anaglifo
 
-AirTag
+Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma por cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
 
-- Metaverso  
+![Exemplo imagem Anaglifo](RealidadeVirtual_imgs/Anaglifo_Imagem.png "Exemplo imagem Anaglifo")  
+
+![Exemplo óculos Anaglifo](RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
 ### Mundo Virtual x Mundo Real
 
+marcador no mundo físico
 - tudo no mundo virtual
 - nos dois "mundos"
   - âncoras no mundo real
   - marcadores
 
-### Na prática
+O mundo virtual precisa modelar o mais fiel possível o mundo real, e ainda perceber as alterações do mundo para atualizar o mundo virtual.
 
-- Cavernas Virtuais (Cave Virtual)
-![CavernasVirtuais](CavernasVirtuais.png "CavernasVirtuais")  
-![CavernasVirtuaisMedicina.png](CavernasVirtuaisMedicina.png "CavernasVirtuaisMedicina.png")  
-![CavernasVirtuaisIndustriaCarro](CavernasVirtuaisIndustriaCarro.png "CavernasVirtuaisIndustriaCarro")  
-![CavernasVirtuaisSimulador.png](CavernasVirtuaisSimulador.png "CavernasVirtuaisSimulador.png")  
+Exemplo em sobrepor um objeto virtual em cima de um mundo real.
 
-- Simuladores de Diversão
+Placa virtual numa porta.
+Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
 
-![Diversão](Diversao.png "Diversão")  
+.. ter algumas placas com texto em idiomas (inglês e Russo) para mostrar a tradução.
 
-- VirtuSphere
-large plastic globe in which people, wearing a head-mounted display, can put themselves in any kind of virtual environment.
-University of Washington at Seattle being used in a military simulation
-![VirtuSphere](VirtuSphere.png "VirtuSphere")  
+Usar o celular para traduzir a placa projetada na porta
 
-- Chroma Key  
 
-- Aplicações usando óculos "dedicados"  
-
-- Aplicações usando óculos "simples" + smartphones
 
 ----------
 
