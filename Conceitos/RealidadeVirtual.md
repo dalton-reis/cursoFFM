@@ -38,65 +38,96 @@ Video See-Through, Optical See-Through, Projetiva ...
 
 ## Tipos de Realidades
 
-Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Diminuída, Realidades Virtual Aumentada, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
+Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Aumentada, Realidades Virtual Diminuída, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
 
-### Realidades Virtual Imersiva (RV / RVi)
+### Realidade Virtual Imersiva (RV / RVi)
 
-A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.
+A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
+Alguns pontos que devem ser observados para aumentar a imersão:
 
-- Representação do mundo virtual que permita a imersão do usuário  
-- Controlando os “sentidos” proporciona imersão, geralmente se usa HMD (displays estereoscópicos)  
-- Poder interagir ou não com o que vê ao seu redor  
+- representar do mundo virtual que permita a imersão do usuário (quanto mais crível melhor);  
+- controlar os “sentidos” proporciona imersão (mais comum: visão e tato);  
+- poder interagir ou não com o que vê ao seu redor.
 
-A Realidade Virtual Imersiva procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada, mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
+A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
-### Realidades Virtual Aumentada  
+### Realidade Virtual Aumentada (RA)  
 
-As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em tempo real e usar 3D.  
+As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em tempo real e usar o espaço 3D.  
 
-- Mistura do virtual com real  
-- único sentido: do virtual p/ real ou real p/ virtual  
-- Necessidade de marcadores (âncoras) no mundo real  
+Alguns pontos que devem ser observados:
 
-### Realidades Virtual Diminuída
+- mistura do virtual com real;  
+- único sentido: do virtual para real ou real para virtual (mais comum);  
+- necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
 
-"Esconde" objetos do mundo real com os do mundo virtual
-<https://www.youtube.com/watch?v=l_GtDezeA2w>
+### Realidade Virtual Diminuída  
 
-Permite que o usuário remova objetos de vídeos em tempo real.
-• Pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
-experiência visual única
-• Utilizado normalmente em produções de vídeo/imagens, onde elementos não desejáveis
-precisam ser removidos
-• Dois tipos: Observacional e In Painting
-• Observacional: utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem.
-• In Painting: Tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem
-<https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  
+"Esconde" objetos no mundo real usando objetos do mundo virtual. Dois tipos:  
 
-### Realidades Virtual Misturada
+- *Observacional* utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
+- *In Painting* tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
 
-Mistura do virtual com real, e o real com o virtual
+Alguns pontos que devem ser observados:
 
-Combinação de processamento do computador, entrada humana e entrada do ambiente.
-• Combina cenas do mundo real com o mundo virtual, e do virtual com o real.
-• União de realidade aumentada e realidade virtual.
-• Permite interação do usuário com o ambiente virtual.
-• Pode ser utilizada na indústria, medicina, jogos e etc.
+- utilizado normalmente em produções de vídeo/imagens, onde elementos não desejáveis precisam ser removidos;  
+- pode permitir que o usuário remova objetos de vídeos em tempo real;  
+- pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
+experiência de imersão maior;  
 
-<https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>  
+<!-- FIXME: baixar vídeo de exemplo <https://www.youtube.com/watch?v=l_GtDezeA2w> 
+<https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  -->
 
-### Realidades Virtual Alternativa  
+### Realidade Virtual Misturada
 
-Jogo de realidade alternativa do Google chega ao iOS
-<http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
+Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".  
+
+Alguns pontos que devem ser observados:  
+
+- combina cenas do mundo real com o mundo virtual, e do virtual com o real;  
+- permite interação nos "dois" sentidos;  
+- união de realidade aumentada e realidade virtual.  
+
+"A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
+
+<!-- FIXME: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>   -->
+
+### Realidade Virtual Alternativa  
 
 Combinação de situações do virtual com o real.
-• Transforma o mundo real em um cenário para a interação do usuário.
-• Pokemon Go:
-• Incentiva que os usuários saiam para capturar pokemons.
-• Em locais públicos tem ginásios (para batalha) e pokestops.
+
+Alguns pontos que devem ser observados:  
+
+- transforma o mundo real em um cenário para a interação do usuário;  
+- incentiva que os usuários se "movimentem" no mundo real para interagir com os objetos virtuais no mundo real.  
+
+<!-- FIXME: 
+Pokemon Go ("febre") .. além do entretenimento, outras funcionalidades ... algo que é "construído" com o apoio do coletivo (gratuito) ... Waze, notificações de ocorrências, velocidade etc.
+Jogo de realidade alternativa do Google chega ao iOS
+<http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
+ -->
 
 ### Metaverso  
+
+Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet".  
+Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox e Fortnite. O Facebook, atual Meta, anunciou a intenção de adotar o Metaverso em sua plataforma.  
+
+Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
+
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso.  
+
+#### Críticas e preocupações
+
+A privacidade das informações no metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos vestíveis e interações com os usuários.[7] O Facebook está planejando persistir em publicidade direcionada dentro do metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.[8]
+O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do metaverso. O transtorno do vício em Internet , mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade.[9] Os especialistas também estão preocupados que o metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.[7][10]
+O metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente.[11][12] Uma vez que os desenvolvimentos do metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa, o metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.[12][13]
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+
+
+<!-- FIXME: explicar melhor e ter um exemplo -->Exemplo da Apple que permite assistir um filme usando uma chamada de Facetime com outra pessoa distante.
 
 ### Interface de Usuário Tangível (IUT)
 
