@@ -109,37 +109,32 @@ Jogo de realidade alternativa do Google chega ao iOS
 
 ### Metaverso  
 
-Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet".  
-Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox e Fortnite. O Facebook, atual Meta, anunciou a intenção de adotar o Metaverso em sua plataforma.  
+Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso.  
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. O
+
 
 #### Críticas e preocupações
 
-A privacidade das informações no metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos vestíveis e interações com os usuários.[7] O Facebook está planejando persistir em publicidade direcionada dentro do metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.[8]
-O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do metaverso. O transtorno do vício em Internet , mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade.[9] Os especialistas também estão preocupados que o metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.[7][10]
-O metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente.[11][12] Uma vez que os desenvolvimentos do metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa, o metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.[12][13]
+A privacidade das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
+O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
+O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa, o Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.  
 
-Here is a simple footnote[^1]. With some additional text after it.
-
-[^1]: My reference.
-
-
-<!-- FIXME: explicar melhor e ter um exemplo -->Exemplo da Apple que permite assistir um filme usando uma chamada de Facetime com outra pessoa distante.
+<!-- FIXME: explicar melhor e ter um exemplo Exemplo da Apple que permite assistir um filme usando uma chamada de Facetime com outra pessoa distante. -->
 
 ### Interface de Usuário Tangível (IUT)
 
-Um conjunto de componentes que auxiliam na interação entre um humano e um computador.  
 Um conjunto de componentes que auxiliam na interação entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
+
+Então, "como percebemos o mundo a nossa volta" ...  
+![Percepção do usuário](UsuarioSentidos.drawio.svg "Percepção do usuário")  
 
 Figura de um apessoa e o mundo e os sentidos (CG) percebem o mundo
 Importância para "enganar" o usuário
 
 Ilusão de Ótica
-
-Here is a simple footnote[^1]. With some additional text after it.
 
 <https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2020i-jonathan-m-kuntz---interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot>
 
