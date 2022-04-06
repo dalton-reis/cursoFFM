@@ -8,7 +8,7 @@ No momento atual muito se fala de Realidade Virtual, se divagando entre vários 
 
 **Interação**: está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele.  
 
-**Envolvimento**: tange ao grau de motivação para a ligação da pessoa com uma determinada atividade.  
+**Envolvimento**: tange ao grau de motivação para conectar ("ligar") a pessoa com uma determinada atividade.  
 
 **Mundo Real**: mundo físico onde vivemos.  
 
