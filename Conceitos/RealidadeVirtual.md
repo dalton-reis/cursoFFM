@@ -43,6 +43,7 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 ### Realidade Virtual Imersiva (RV / RVi)
 
 A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
+
 Alguns pontos que devem ser observados para aumentar a imersão:
 
 - representar do mundo virtual que permita a imersão do usuário (quanto mais crível melhor);  
