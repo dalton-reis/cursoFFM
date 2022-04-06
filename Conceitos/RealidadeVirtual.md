@@ -54,7 +54,7 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 
 ### Realidade Virtual Aumentada (RA)  
 
-As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em tempo real e usar o espaço 3D.  
+As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
 
 Alguns pontos que devem ser observados:
 
