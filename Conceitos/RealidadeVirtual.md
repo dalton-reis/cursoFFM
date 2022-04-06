@@ -1,6 +1,6 @@
 # Conceitos: Realidade Virtual (RV)
 
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Visualização](#tipos-de-visualização "Visualização") e de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais")). Então vamos passar por este tópicos para entender um pouco este contexto.  
+No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Visualização](#tipos-de-visualização "Visualização") e de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
 
 ## Termos
 
