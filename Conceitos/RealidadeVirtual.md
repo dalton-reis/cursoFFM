@@ -1,12 +1,8 @@
 # Conceitos: Realidade Virtual (RV)
 
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Visualização](#tipos-de-visualização "Visualização") e de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais")).  
+No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Visualização](#tipos-de-visualização "Visualização") e de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais")). Então vamos passar por este tópicos para entender um pouco este contexto.  
 
-## Introdução
-
-<!-- FIXME: preâmbulo -->
-
-### Termos
+## Termos
 
 **Imersão**: sentimento de estar-se dentro do ambiente.  
 
@@ -20,7 +16,7 @@ No momento atual muito se fala de Realidade Virtual, se divagando entre vários 
 
 **Credibilidade**: o quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
-### História
+## História
 
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em 1962 por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
 ![Sensorama](RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
