@@ -52,6 +52,9 @@ Alguns pontos que devem ser observados para aumentar a imersão:
 
 A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
+<!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
+Um exemplo de uso de RV é um usuário usando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário.  
+
 ### Realidade Virtual Aumentada (RA)  
 
 As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
@@ -61,6 +64,8 @@ Alguns pontos que devem ser observados:
 - mistura do virtual com real;  
 - único sentido: do virtual para real ou real para virtual (mais comum);  
 - necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
+
+<!-- FIXME: colocar o video do painel de foto com os jogadores -->
 
 ### Realidade Virtual Diminuída  
 
