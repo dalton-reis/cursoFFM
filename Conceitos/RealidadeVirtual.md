@@ -18,7 +18,7 @@ No momento atual muito se fala de Realidade Virtual, se divagando entre vários 
 
 ## História
 
-Alguns pontos marcantes na história da Realidade Virtual.  
+Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
 
 Sensorama - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em **1962** por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
 ![Sensorama](RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
