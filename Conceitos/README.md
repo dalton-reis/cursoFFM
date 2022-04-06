@@ -32,4 +32,4 @@ Com a intenção de despertar algumas:
 - preocupações
 - etc.
 
-Lembrem que no final da nossa agenda de hoje iremos fazer uma [Dinâmica](../README.md#dinâmica---ideias "Dinâmica").  
+Lembrem que no final da nossa agenda de hoje iremos fazer uma [Dinâmica](../Dinamica/README.md "Dinâmica").  
