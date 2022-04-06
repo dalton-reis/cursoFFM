@@ -111,6 +111,10 @@ Jogo de realidade alternativa do Google chega ao iOS
 
 ### Metaverso  
 
+FIXME: https://youtu.be/PkWr7KhD44Q
+FIXME: https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf
+FIXME: https://youtu.be/IqTC4lsxNfk (video enviado no chat dos professores do BCC)
+
 Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
@@ -160,6 +164,8 @@ Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornec
 ### Mundo Virtual x Mundo Real
 
 marcador no mundo físico
+
+/Users/daltonreis/Library/Mobile Documents/com~apple~Keynote/Documents/Disciplinas/CG/cg-slides_u1.key
 
 - tudo no mundo virtual
 - nos dois "mundos"
