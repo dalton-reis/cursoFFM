@@ -11,10 +11,10 @@ Entres estes vamos nos concentrar em quatro assuntos:
 <!-- [FIXME: figura não aparece na Web] -->  
 ![Conceitos](Areas.drawio.svg "Conceitos")  
 
-- [Realidade Virtual (RV)](RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
-- [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-- [Dispositivos Vestíveis](DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
-- [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+- [Realidade Virtual (RV)](./RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
+- [Dispositivos Móveis](./DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+- [Dispositivos Vestíveis](./DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+- [Internet das Coisas (IOT)](./InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
 Para isto vamos olhar:  
 
