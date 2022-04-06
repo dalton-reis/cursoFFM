@@ -1,15 +1,15 @@
 # Dinâmica - Ideias
 
-Bom, agora chegou a hora de fazermos uma prova sobre o conteudo demonstrado .. brincadeira 😁 .. seguindo a nossa agenda iremos fazer uma dinâmica em grupo. Peço que se dividam em quatro equipes, e cada equipe escolha um dos assuntos apresentados.
+Bom, agora chegou a hora de fazermos uma prova sobre o conteúdo demonstrado .. brincadeira 😁 .. seguindo a nossa agenda iremos fazer uma dinâmica em grupo. Peço que se dividam em quatro equipes, e cada equipe escolha um dos assuntos apresentados.
 
 - [Realidade Virtual](../Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
 - [Dispositivos Móveis](../Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
 - [Dispositivos Vestíveis](../Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
 - [Internet das Coisas (IOT)](../Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
-E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca de ideias 
+E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca de ideias.  
 
-Escolham um ideia que poderia se beneficiar com o uso do assunto escolhido na área da sua área da saúde (de preferência)
+Escolham um ideia que poderia se beneficiar com o uso do assunto escolhido na área da sua área da saúde (de preferência).  
 
 Gerar um link e um QR-Code para cada Equipe
 
