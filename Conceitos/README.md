@@ -8,7 +8,7 @@ em quatro horas (e com direito a um café) 🙁 .. grande desafio.
 
 Entres estes vamos nos concentrar em quatro assuntos:
 
-![Conceitos](./Areas.drawio.svg "Conceitos")    
+![Conceitos](Areas.drawio.svg "Conceitos")  
 
 - [Realidade Virtual (RV)](RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
 - [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
