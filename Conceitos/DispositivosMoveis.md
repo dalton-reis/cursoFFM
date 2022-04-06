@@ -17,7 +17,7 @@ Automator
 
 Exemplo de marcar um compromisso para beber café em casa
 
-
+https://neosus.net/skincheck/#/
 
 Exemplos de uso da Vuforia para Teletrabalho
 
