@@ -8,6 +8,7 @@ em quatro horas (e com direito a um café) 🙁 .. grande desafio.
 
 Entres estes vamos nos concentrar em quatro assuntos:
 
+<!-- [FIXME: figura não aparece na Web] -->  
 ![Conceitos](Areas.drawio.svg "Conceitos")  
 
 - [Realidade Virtual (RV)](RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
@@ -30,3 +31,5 @@ Com a intenção de despertar algumas:
 - curiosidades
 - preocupações
 - etc.
+
+Lembrem que no final da nossa agenda de hoje iremos fazer uma [Dinâmica](../README.md#dinâmica---ideias "Dinâmica").  
