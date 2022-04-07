@@ -208,7 +208,11 @@ Estereoscopia é uma técnica usada para se obter informações do espaço tridi
 
 ![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](./RealidadeVirtual_imgs/EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
 
-A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.  
+A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya. Alguns exemplos de videos com o efeito Estereoscópio 
+
+As vezes além do efeito Estereoscópio se usa alguns "truques" de Ilusão de Ótica.  
+![Truques de Ilusão de Ótica](./RealidadeVirtual_imgs/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
+
 
 Ainda de tem os tipos de projeção Estereoscópica passiva e ativa. FIXME: passiva é o Anaglifo.
 
