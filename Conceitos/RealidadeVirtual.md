@@ -155,14 +155,9 @@ Alguns pontos que devem ser observados:
 
 #### RAl - Exemplos
 
-<!-- FIXME: 
-Pokemon Go ("febre") .. além do entretenimento, outras funcionalidades ... algo que é "construído" com o apoio do coletivo (gratuito) ... Waze, notificações de ocorrências, velocidade etc.
-Jogo de realidade alternativa do Google chega ao iOS
-<http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
- -->
-#### Pokemon GO (Nathan Reikdal Cervieri)
+Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se via pessoas explorando o [mundo real](#mundo-real "mundo real") em busca de "recompensas" do [mundo virtual](#mundo-virtual "mundo virtual"). A RAl pode promover além do entretenimento, outras funcionalidades, por exemplo, "construir algo" com o apoio do coletivo (gratuito). Um exemplo desta "construção" coletiva são as estatísticas de transito no Aplicativo de navegação [Waze](<https://pt.wikipedia.org/wiki/Waze> "Waze").  
 
-- [Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokéball Plus")  
+- [Pokemon GO - Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokemon GO - Pokéball Plus")  
 
 ### Metaverso  
 
