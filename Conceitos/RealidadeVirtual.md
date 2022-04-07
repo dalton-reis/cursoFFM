@@ -210,6 +210,7 @@ Para saber mais...
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
+  Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/introd-conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
 
 - 00:00:00 [Abertura do Evento](<https://youtu.be/LU-LJUo6fyA> "Abertura do Evento")  
 - 00:12:56 [Conceitos sobre RV e RA (Romeu Tori)](<https://youtu.be/LU-LJUo6fyA?t=772> "Conceitos sobre RV e RA (Romeu Tori)")  
