@@ -63,6 +63,7 @@ Alguns pontos que devem ser observados:
 <!-- FIXME: colocar o video do painel de foto com os jogadores -->
 #### Exemplos
 
+<!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
 ### Realidade Virtual Diminuída  
@@ -110,6 +111,14 @@ Pokemon Go ("febre") .. além do entretenimento, outras funcionalidades ... algo
 Jogo de realidade alternativa do Google chega ao iOS
 <http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
  -->
+#### Pokemon GO (Nathan Reikdal Cervieri)
+
+Jogo, marca conhecida
+Realidade Alternativa
+Na minha época era uma forma simples de "colocar" o personagem virtual no mundo real.
+Usar objetos reais ...  Pokéball Plus .. interação com o jogo
+https://www.youtube.com/watch?v=3UWnEo3A5fU
+
 
 <!-- link para o vídeo da apresentação de abertura do SVR -->  
 
