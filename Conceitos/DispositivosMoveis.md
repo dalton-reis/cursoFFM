@@ -4,7 +4,7 @@ Ao se falar em Dispositivos Móveis pode se pensar em várias questões que envo
 
 ## Hardware Móvel
 
-Em relação ao Hardware o que se presencia é uma constante evolução e adoção de novos componentes em uma unidade móvel, que até a pouco tempo era impensável que poderia se tornar algo muitas vezes indispensável no nosso dia-a-dia. Ainda se tem um alto custo em certos tipos de equipamentos (as vezes valem "um rim" 😆), que com disponibilização de novos recursos tendem a ficar num preço acessível.  
+Em relação ao Hardware o que se presencia é uma constante evolução e adoção de novos componentes em uma unidade móvel, que até a pouco tempo era impensável que poderia se tornar algo muitas vezes indispensável no nosso dia-a-dia. Ainda se tem um alto custo em certos tipos de equipamentos (as vezes valem "um rim" 😆), mas com a disponibilização de novos recursos tendem a ficar num preço acessível.  
 
 Mas além da capacidade de aumentar o poder de processamento, ainda em paralelo se tem a miniaturização destes componentes, tornando cada vez mais possível o uso de equipamentos móveis vestíveis, os _wearables_ ([nosso próximo assunto](./DispositivosVestiveis.md "nosso próximo assunto")).  
 
