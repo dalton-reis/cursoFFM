@@ -92,7 +92,7 @@ Alguns pontos que devem ser observados:
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
 - [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/PainelInterativo_JogadoresFutebol.mov "Painel de Fotos com Jogadores")  
-- [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_WalkingDeadGarrafas.mov "Rótulos de Garrafas")  
+![Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_WalkingDeadGarrafas.mov "Rótulos de Garrafas")  
 
 ### Realidade Virtual Diminuída  
 
