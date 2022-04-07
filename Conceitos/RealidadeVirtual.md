@@ -110,6 +110,7 @@ experiência de [imersão](#imersão "imersão") maior;
 
 #### RD - Exemplos
 
+![Objetos Removidos - Tablet](./RealidadeVirtual_imgs/RD_Tablet.mov "Objetos Removidos - Tablet")  
 <!-- FIXME: baixar vídeo de exemplo <https://www.youtube.com/watch?v=l_GtDezeA2w> 
 <https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  -->
 
