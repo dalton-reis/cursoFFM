@@ -69,7 +69,7 @@ Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
 <!-- FIXME: uma imagem para RV de acordo com o texto abaixo -->
 
-A RVi explora o uso HMD para "controlar" o campo de visão do usuário (📢 🔈).  
+A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
 
 ![Usuário Imerso](./RealidadeVirtual_imgs/RVi_Usuario.mov "Usuário Imerso")  
 
@@ -90,9 +90,9 @@ Alguns pontos que devem ser observados:
 #### RA - Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
-- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo") (obs.: escutar o audio)  
-- [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/PainelInterativo_JogadoresFutebol.mov "Painel de Fotos com Jogadores")  (obs.: escutar o audio)  
-- [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_WalkingDeadGarrafas.mov "Rótulos de Garrafas")  (obs.: escutar o audio)  
+- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
+- [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/PainelInterativo_JogadoresFutebol.mov "Painel de Fotos com Jogadores") ( 📢 ).  
+- [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_WalkingDeadGarrafas.mov "Rótulos de Garrafas") ( 📢 ).  
 
 ### Realidade Virtual Diminuída  
 
