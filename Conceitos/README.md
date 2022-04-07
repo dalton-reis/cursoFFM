@@ -9,7 +9,7 @@ em quatro horas (e com direito a um café) 🙁 .. grande desafio.
 Entres estes vamos nos concentrar em quatro assuntos:
 
 <!-- [TODO: figura não aparece na Web qdo uso Areas.drawio.svg] -->  
-![Conceitos](./Areas.png "Conceitos")  
+![Conceitos](./Areas.svg "Conceitos")  
 
 - [Realidade Virtual (RV)](./RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
 - [Dispositivos Móveis](./DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
