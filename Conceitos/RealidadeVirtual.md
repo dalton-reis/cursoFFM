@@ -110,7 +110,7 @@ experiência de [imersão](#imersão "imersão") maior;
 
 #### RD - Exemplos
 
-Remoção de objetos com um fundo complexo - técnica de [Chroma Key](<https://pt.wikipedia.org/wiki/Chroma_key> "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
+Remoção de objetos com um fundo complexo - [Chroma Key](<https://pt.wikipedia.org/wiki/Chroma_key> "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
 ![Objetos Removidos - Pessoa](./RealidadeVirtual_imgs/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
 
 Remoção de objetos usando tablet em ambiente não estruturado.  
