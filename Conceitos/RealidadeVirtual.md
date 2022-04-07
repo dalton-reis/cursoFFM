@@ -126,7 +126,8 @@ Alguns pontos que devem ser observados:
 - permite [interação](#interação "interação") nos "dois" sentidos;  
 - união de realidade aumentada e realidade virtual.  
 
-"A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
+Para se pensar ...
+  "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
 
 #### RM - Exemplos
 
