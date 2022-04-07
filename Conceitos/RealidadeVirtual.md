@@ -208,16 +208,14 @@ Estereoscopia é uma técnica usada para se obter informações do espaço tridi
 
 ![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](./RealidadeVirtual_imgs/EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
 
-A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya. Alguns exemplos de videos com o efeito Estereoscópio 
+A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.
 
 As vezes além do efeito Estereoscópio se usa alguns "truques" de Ilusão de Ótica.  
 ![Truques de Ilusão de Ótica](./RealidadeVirtual_imgs/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
+Alguns exemplos de videos com o efeito Estereoscópio podem ser vistos em: [Projeção 3D](./OutrosExemplos/Tecnologias/Projetor3D/ "Projeção 3D").  
 
-
-Ainda de tem os tipos de projeção Estereoscópica passiva e ativa. FIXME: passiva é o Anaglifo.
-
-FIXME: displays Estereoscópicos (tais como os populares headsets, óculos especiais para exibir o ambiente simulado)
-FIXME: mais exemplo ... seria no Hardware?
+Estes exemplos são considerados como Estereoscópica Ativa, pois precisam de equipamentos especiais para gerar o efeito Paralaxe.
+Uma solução de muito mais baixo custo, mas com resultados mais simples são os considerados de Estereoscópica Passiva, como por exemplo os [Anaglifo](#anaglifo "Anaglifo").  
 
 #### Anaglifo
 
