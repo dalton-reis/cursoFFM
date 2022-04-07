@@ -63,7 +63,7 @@ Alguns pontos que devem ser observados:
 <!-- FIXME: colocar o video do painel de foto com os jogadores -->
 #### Exemplos
 
-- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mp4 "Mesa Tátil da TV Globo")  
+- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
 ### Realidade Virtual Diminuída  
 
