@@ -63,11 +63,11 @@ Alguns pontos que devem ser observados:
 - único sentido: do virtual para real ou real para virtual (mais comum);  
 - necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
 
-<!-- FIXME: colocar o video do painel de foto com os jogadores -->
 #### Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
+- [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/PainelInterativo_JogadoresFutebol.mov "Painel de Fotos com Jogadores")  
 
 ### Realidade Virtual Diminuída  
 
