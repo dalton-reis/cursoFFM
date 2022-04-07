@@ -129,11 +129,18 @@ Alguns pontos que devem ser observados:
 - permite [interação](#interação "interação") nos "dois" sentidos;  
 - união de realidade aumentada e realidade virtual.  
 
+Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
+
+![Realidade Misturada](./RealidadeVirtual_imgs/RM.drawio.svg "Realidade Misturada")  
+
 Para se pensar ...
 
     "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
 
 #### RM - Exemplos
+
+Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
+![Corpo Humano](./RealidadeVirtual_imgs/RM_CorpoHololens.mov "Corpo Humano")  
 
 <!-- FIXME: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>   -->
 
