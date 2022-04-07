@@ -13,6 +13,8 @@ Um aspecto importante a ser observado são as novas (não tão novas, mas sim ca
 - Opções de Tela: impressiona, mas ainda vai ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. E quem sabe, talvez, um smartphone com tela infinita.  
 ![Xiaomi MI Mix Alpha](./DispositivosMoveis_imgs/Xiaomi_Tela.mov "Xiaomi MI Mix Alpha")  
 
+Bom, se especulando, a pergunta que também se deveria fazer e se no "futuro" os nossos Smartphones ainda terão alguma tela.  
+
 ### Uso de Gestos
 
 ### Comandos por Voz
@@ -21,9 +23,17 @@ Um aspecto importante a ser observado são as novas (não tão novas, mas sim ca
 
 ### Sensores a laser
 
+### Futuro do Hardware Móvel
+
+Espero pode presenciar algo parecido com este projeto de conceito futurístico (🔈).  
+![Smartphone Pulseira](./DispositivosMoveis_imgs/Smartphone_Pulseira.mov "Smartphone Pulseira")  
+
 ## Software Móvel
 
-Em relação as opções de Software atualmente temos duas grandes opções para desenvolver aplicações móveis. O desenvolvimento Nativo e Multiplataforma, ou ainda algumas poucas opções de desenvolvimento direto com o usuário.  
+Na história do desenvolvimento para plataformas móveis já passamos por uma estrutura deste tipo:
+![Desenvolvimento Passado](./DispositivosMoveis_imgs/Desenvolver_Opcoes.png "Desenvolvimento Passado")  
+
+Atualmente temos duas grandes opções para desenvolver aplicações móveis. O desenvolvimento [Nativo](#desenvolvimento-nativo "Nativo") e [Multiplataforma](#desenvolvimento-multiplataforma "Multiplataforma"), ou ainda algumas poucas opções de [desenvolvimento direto com o usuário](#desenvolvimento-direto-com-o-usuário "desenvolvimento direto com o usuário").  
 
 ### Desenvolvimento Nativo
 
