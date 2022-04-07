@@ -50,7 +50,6 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 <!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
 Um exemplo de uso de RV é um usuário usando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário.  
 
-
 ### Realidade Virtual Aumentada (RA)  
 
 As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
@@ -62,6 +61,9 @@ Alguns pontos que devem ser observados:
 - necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
 
 <!-- FIXME: colocar o video do painel de foto com os jogadores -->
+#### Exemplos
+
+- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
 ### Realidade Virtual Diminuída  
 
