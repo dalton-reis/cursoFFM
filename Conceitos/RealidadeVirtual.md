@@ -142,7 +142,7 @@ Para se pensar ...
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
 ![Corpo Humano](./RealidadeVirtual_imgs/RM_CorpoHololens.mov "Corpo Humano")  
-Para saber mais: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>  
+Para saber mais [(05/04/2022) O que é realidade misturada?](<https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality> "O que é realidade misturada?").  
 
 ### Realidade Virtual Alternativa  
 
