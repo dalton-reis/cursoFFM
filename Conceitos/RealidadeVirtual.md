@@ -127,7 +127,8 @@ Alguns pontos que devem ser observados:
 - união de realidade aumentada e realidade virtual.  
 
 Para se pensar ...
-  "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
+
+    "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
 
 #### RM - Exemplos
 
