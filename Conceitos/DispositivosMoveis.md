@@ -17,6 +17,9 @@ Bom, se especulando, a pergunta que também se deveria fazer e se no "futuro" os
 
 ### Uso de Gestos
 
+Outro aspecto que se começou a ser explorado e o uso de gestos para interagir com o Smartphone. Desde de algumas tentativas não muito aceitas pelos usuários, como: poder rolar a tela com gesto da mão ou com a mudança do ponto de vista dos olhos, até sacudidelas (desfazer uma ação sacudindo o aparelho - iOS) que ainda estão em uso. Ou ainda, projeto com ações mais "descoladas" do aparelho, como o Google Soli Watch by LG Hands-On by ATAP.  
+![Google Sole Watch](./DispositivosMoveis_imgs/GoogleSoliWatch.mov "Google Sole Watch")  
+
 ### Comandos por Voz
 
 ### Reconhecimento por Imagem
@@ -25,7 +28,7 @@ Bom, se especulando, a pergunta que também se deveria fazer e se no "futuro" os
 
 ### Futuro do Hardware Móvel
 
-Espero pode presenciar algo parecido com este projeto de conceito futurístico (🔈).  
+Espero pode presenciar algo parecido com este projeto de conceito futurístico.  
 ![Smartphone Pulseira](./DispositivosMoveis_imgs/Smartphone_Pulseira.mov "Smartphone Pulseira")  
 
 ## Software Móvel
