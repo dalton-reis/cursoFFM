@@ -71,7 +71,7 @@ Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D
 
 A RVi explora o uso HMD para "controlar" o campo de visão do usuário.  
 
-- [Usuário Imerso](./RealidadeVirtual_imgs/RVi_Usuario.mov "Usuário Imerso")  
+- ![Usuário Imerso](./RealidadeVirtual_imgs/RVi_Usuario.mov "Usuário Imerso")  
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
