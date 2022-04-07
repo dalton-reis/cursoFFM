@@ -4,17 +4,29 @@ No momento atual muito se fala de Realidade Virtual, se divagando entre vários 
 
 ## Termos
 
-**Imersão**: sentimento de estar-se dentro do ambiente.  
+### Imersão
 
-**Interação**: está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o mundo virtual e as ações sobre ele.  
+Sentimento de estar-se dentro do ambiente.  
 
-**Envolvimento**: tange ao grau de motivação para conectar ("ligar") a pessoa com uma determinada atividade.  
+### Interação
 
-**Mundo Real**: mundo físico onde vivemos.  
+Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele.  
 
-**Mundo Virtual**: mundo modelado virtualmente por modelos de computação gráfica que podem simular o mundo real.  
+### Envolvimento
 
-**Credibilidade**: o quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
+Tange ao grau de motivação para conectar ("ligar") a pessoa com uma determinada atividade.  
+
+### Mundo Real
+
+Mundo físico onde vivemos.  
+
+### Mundo Virtual
+
+Mundo modelado virtualmente por modelos de computação gráfica que podem simular o [mundo real](#mundo-real "mundo real").  
+
+### Credibilidade
+
+O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
 ## História
 
@@ -29,7 +41,7 @@ Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet** w
 Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia (AZUMA, 1995, p. 1). Como outras tecnologias a Realidade Aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (_tracking_) (EKENGREN, 2009, p. 5) (HÖLLERER; FEINER, 2004, p. 2).  
 ![Ivan Sutherland](./RealidadeVirtual_imgs/Historia_IvanSutherland.png "Ivan Sutherland")  
 
-Equipamento para Visão Estereoscópica <!-- FIXME: link para explicação sobre visão estereoscópica --> uso no Brasil na época colonial no **museu de Curitiba - PR**.  
+Equipamento para Visão Estereoscópica <!-- FIXME: link para explicação sobre visão estereoscópica --> usado no Brasil na época colonial no **museu de Curitiba - PR**.  
 ![Museu Curitiba](./RealidadeVirtual_imgs/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
@@ -40,30 +52,30 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ### Realidade Virtual Imersiva (RV / RVi)
 
-A RV pode ser classificada conforme o nível de interação do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na imersão, como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um mundo virtual. E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
+A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
 
-Alguns pontos que devem ser observados para aumentar a imersão:
+Alguns pontos que devem ser observados para aumentar a [imersão](#imersão "imersão"):
 
-- representar do mundo virtual que permita a imersão do usuário (quanto mais crível melhor);  
-- controlar os “sentidos” proporciona imersão (mais comum: visão e tato);  
+- representar do [mundo virtual](#mundo-virtual "mundo virtual") que permita a [imersão](#imersão "imersão") do usuário (quanto mais crível melhor);  
+- controlar os “sentidos” proporciona [imersão](#imersão "imersão") (mais comum: visão e tato);  
 - poder interagir ou não com o que vê ao seu redor.
 
-A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
+A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a [interação](#interação "interação") com o [mundo virtual](#mundo-virtual "mundo virtual"), de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
 #### RV - Exemplos
 
-Um exemplo de uso de RV é um usuário usando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário.  
+Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
 <!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
 
 ### Realidade Virtual Aumentada (RA)  
 
-As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
+As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter [interação](#interação "interação") em "tempo real" e usar o espaço 3D.  
 
 Alguns pontos que devem ser observados:
 
 - mistura do virtual com real;  
 - único sentido: do virtual para real ou real para virtual (mais comum);  
-- necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
+- necessidade de marcadores <!-- FIXME: link --> (âncoras) no [mundo real](#mundo-real "mundo real").  
 
 #### RA - Exemplos
 
@@ -73,7 +85,7 @@ Alguns pontos que devem ser observados:
 
 ### Realidade Virtual Diminuída  
 
-"Esconde" objetos no mundo real usando objetos do mundo virtual. Dois tipos:  
+"Esconde" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos:  
 
 - *Observacional* utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
 - *In Painting* tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
@@ -83,7 +95,7 @@ Alguns pontos que devem ser observados:
 - utilizado normalmente em produções de vídeo/imagens, onde elementos não desejáveis precisam ser removidos;  
 - pode permitir que o usuário remova objetos de vídeos em tempo real;  
 - pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
-experiência de imersão maior;  
+experiência de [imersão](#imersão "imersão") maior;  
 
 #### RD - Exemplos
 
@@ -96,8 +108,8 @@ Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".
 
 Alguns pontos que devem ser observados:  
 
-- combina cenas do mundo real com o mundo virtual, e do virtual com o real;  
-- permite interação nos "dois" sentidos;  
+- combina cenas do [mundo real](#mundo-real "mundo real") com o [mundo virtual](#mundo-virtual "mundo virtual"), e do virtual com o real;  
+- permite [interação](#interação "interação") nos "dois" sentidos;  
 - união de realidade aumentada e realidade virtual.  
 
 "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
@@ -112,8 +124,8 @@ Combinação de situações do virtual com o real.
 
 Alguns pontos que devem ser observados:  
 
-- transforma o mundo real em um cenário para a interação do usuário;  
-- incentiva que os usuários se "movimentem" no mundo real para interagir com os objetos virtuais no mundo real.  
+- transforma o [mundo real](#mundo-real "mundo real") em um cenário para a [interação](#interação "interação") do usuário;  
+- incentiva que os usuários se "movimentem" no [mundo real](#mundo-real "mundo real") para interagir com os objetos virtuais no [mundo real](#mundo-real "mundo real").  
 
 #### RAl - Exemplos
 
@@ -128,7 +140,7 @@ Jogo de realidade alternativa do Google chega ao iOS
 
 ### Metaverso  
 
-Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
+Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
@@ -142,16 +154,16 @@ FIXME: https://youtu.be/IqTC4lsxNfk (video enviado no chat dos professores do BC
 
 A privacidade das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
 O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
-O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o envolvimento.  
+O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
 
 ### Interface de Usuário Tangível (IUT)
 
-Um conjunto de componentes que auxiliam na interação entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
+Um conjunto de componentes que auxiliam na [interação](#interação "interação") entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
 
 Então, "como percebemos o mundo a nossa volta" ... qual "Interface" é utilizada?  
 ![Percepção do usuário](RealidadeVirtual_imgs/UsuarioSentidos.drawio.svg "Percepção do usuário")  
 
-A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a Imersão, Interação e Envolvimento (os pilares das Realidades Virtuais) do usuário entre o Mundo Real e Mundo Virtual. A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
+A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a [Imersão](#imersão "imersão"), [Interação](#interação "interação") e [Envolvimento](#envolvimento "envolvimento") (os pilares das Realidades Virtuais) do usuário entre o [Mundo Real](#mundo-real "mundo real") e [Mundo Virtual](#mundo-virtual "mundo virtual"). A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
 
 ![Interface - camadas](RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
 
@@ -178,20 +190,20 @@ Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornec
 
 ![Exemplo óculos Anaglifo](RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
-### Mundo Virtual x Mundo Real
+### [Mundo Virtual](#mundo-virtual "mundo virtual") x [Mundo Real](#mundo-real "mundo real")
 
 marcador no mundo físico
 
 /Users/daltonreis/Library/Mobile Documents/com~apple~Keynote/Documents/Disciplinas/CG/cg-slides_u1.key
 
-- tudo no mundo virtual
-- nos dois "mundos"
-  - âncoras no mundo real
+- tudo no [mundo virtual](#mundo-virtual "mundo virtual")  
+- nos dois "mundos"  
+  - âncoras no [mundo real](#mundo-real "mundo real")
   - marcadores
 
-O mundo virtual precisa modelar o mais fiel possível o mundo real, e ainda perceber as alterações do mundo para atualizar o mundo virtual.
+O [mundo virtual](#mundo-virtual "mundo virtual") precisa modelar o mais fiel possível o [mundo real](#mundo-real "mundo real"), e ainda perceber as alterações do mundo para atualizar o [mundo virtual](#mundo-virtual "mundo virtual").
 
-Exemplo em sobrepor um objeto virtual em cima de um mundo real.
+Exemplo em sobrepor um objeto virtual em cima de um [mundo real](#mundo-real "mundo real").
 
 Placa virtual numa porta.
 Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
