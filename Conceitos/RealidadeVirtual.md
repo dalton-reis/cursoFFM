@@ -247,7 +247,7 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
-  Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/Conceitos-rv-ra.pdf.pdf "Introdução aos Conceitos de RV")  
+  Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
 
 | Assunto | Página |  
 |---------|----:|  
