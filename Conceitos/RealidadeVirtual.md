@@ -219,10 +219,12 @@ Uma solução de muito mais baixo custo, mas com resultados mais simples são os
 
 #### Anaglifo
 
-Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma por cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
+Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma para cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
 
+Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo imagem Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Imagem.png "Exemplo imagem Anaglifo")  
 
+O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
 ### [Mundo Virtual](#mundo-virtual "mundo virtual") x [Mundo Real](#mundo-real "mundo real")
