@@ -66,4 +66,11 @@ Mediador: Dalton (separar em 4 equipes)
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boa noite 😉  
 
-Ahh, algumas coisas legais sobre robótica <https://www.engineeredarts.co.uk/video-gallery/>  
+Ahh, algumas coisas legais sobre robótica:
+
+- projeto de sinuca (robótica): <https://www.youtube.com/watch?v=vsTTXYxydOE>
+- <https://www.engineeredarts.co.uk/video-gallery/>  
+
+E se quiser usar Inteligência Artificial no motor de Jogos Unity:
+
+- <https://unity.com/products/machine-learning-agents>
