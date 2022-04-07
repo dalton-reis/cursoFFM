@@ -165,7 +165,7 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 
 [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit) e assumi o compromisso de ser a maior plataforma de RA do Mundo.
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit) e assumi o compromisso de ser a maior plataforma de RA do Mundo. A Google vem com a plataforma ARCore, e a Microsoft já alguns anos no desenvolvimento do Hololens.
 
 ![RA Apple](<https://share.newsroom.apple/br/newsroom/embed/videos/?embedvideoid=0e9ddba360be9dd77ac4881ea2fa6cdb> "RA Apple").  
 
@@ -184,11 +184,11 @@ O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos es
 Um conjunto de componentes que auxiliam na [interação](#interação "interação") entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
 
 Então, "como percebemos o mundo a nossa volta" ... qual "Interface" é utilizada?  
-![Percepção do usuário](RealidadeVirtual_imgs/UsuarioSentidos.drawio.svg "Percepção do usuário")  
+![Percepção do usuário](./RealidadeVirtual_imgs/UsuarioSentidos.drawio.svg "Percepção do usuário")  
 
 A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a [Imersão](#imersão "imersão"), [Interação](#interação "interação") e [Envolvimento](#envolvimento "envolvimento") (os pilares das Realidades Virtuais) do usuário entre o [Mundo Real](#mundo-real "mundo real") e [Mundo Virtual](#mundo-virtual "mundo virtual"). A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
 
-![Interface - camadas](RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
+![Interface - camadas](./RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
 
 ### Estereoscopia
 
@@ -196,7 +196,7 @@ Como um dos principais sentidos explorado nas Realidades Virtuais é a visão, n
 
 Estereoscopia é uma técnica usada para se obter informações do espaço tridimensional, através da análise de duas imagens obtidas em pontos diferentes.
 
-![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](RealidadeVirtual_imgs\EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
+![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](./RealidadeVirtual_imgs/EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
 
 A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.  
 
@@ -209,9 +209,9 @@ FIXME: mais exemplo ... seria no Hardware?
 
 Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma por cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
 
-![Exemplo imagem Anaglifo](RealidadeVirtual_imgs/Anaglifo_Imagem.png "Exemplo imagem Anaglifo")  
+![Exemplo imagem Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Imagem.png "Exemplo imagem Anaglifo")  
 
-![Exemplo óculos Anaglifo](RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
+![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
 ### [Mundo Virtual](#mundo-virtual "mundo virtual") x [Mundo Real](#mundo-real "mundo real")
 
