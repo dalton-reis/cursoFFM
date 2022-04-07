@@ -30,7 +30,7 @@ Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicio
 ![Ivan Sutherland](./RealidadeVirtual_imgs/Historia_IvanSutherland.png "Ivan Sutherland")  
 
 Capacete de Realidade Virtual (Head Mounted Display - HMD) no **museu de Curitiba - PR**.
-![Museu Curitiba](./RealidadeVirtual_imgs/Estereoscopia_Museu_Curitiba.mp4 "Museu Curitiba")  
+![Museu Curitiba](./RealidadeVirtual_imgs/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
 
