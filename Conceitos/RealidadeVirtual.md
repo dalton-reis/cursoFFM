@@ -211,24 +211,27 @@ Para saber mais...
   Data: 07/11/2020  
   Formato: Remoto  
   Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/introd-conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
-    - Capítulo 15 - Saúde ...................................................................................... 316
-      - 15.1 Introdução ........................................................................................ 316
-      - 15.2 Simulação Cirúrgica ............................................................................... 317
-      - 15.2.1 Simulador de Cirurgia de Catarata ............................................................... 318
-      - 15.2.2 Simulador de videolaparoscopia .................................................................. 320
-      - 15.2.3 Considerações Finais ............................................................................ 323
-      - 15.3 Treinamento virtual em saúde ...................................................................... 323
-      - 15.3.1. Requisitos ..................................................................................... 324
-      - 15.3.2. Framework ViMeT (Virtual Medical Training) ..................................................... 325
-      - 15.3.3 Teste de aplicações de Realidade Virtual ........................................................ 327
-      - 15.4 Explorando técnicas de Inteligência Artificial em Ambientes Virtuais para Reabilitação Cognitiva .. 330
-      - 15.5 Ensino, Avaliação e Ferramentas para RV em Saúde .................................................. 334
-      - 15.5.1. Aplicações Voltadas ao Ensino e à Reabilitação ................................................. 334
-      - 15.5.2 Avaliação Automática de Habilidades ............................................................. 336
-      - 15.6 Ambientes Virtuais Tridimensionais Aplicados como Brinquedo Terapêutico ........................... 340
-      - 15.7 Uso da Realidade Virtual na Psicoterapia .......................................................... 347
-      - 15.8 Tendências e oportunidades ........................................................................ 350
-      - Referências ............................................................................................ 351
+
+| Assunto | Página |  
+|---------|----:|  
+| Capítulo 15 - Saúde | 316 |  
+| 15.1 Introdução | 316 |  
+| 15.2 Simulação Cirúrgica | 317 |  
+| 15.2.1 Simulador de Cirurgia de Catarata | 318 |  
+| 15.2.2 Simulador de videolaparoscopia | 320 |  
+| 15.2.3 Considerações Finais | 323 |  
+| 15.3 Treinamento virtual em saúde | 323 |  
+| 15.3.1. Requisitos | 324 |  
+| 15.3.2. Framework ViMeT (Virtual Medical Training) | 325 |  
+| 15.3.3 Teste de aplicações de Realidade Virtual | 327 |  
+| 15.4 Explorando técnicas de Inteligência Artificial em Ambientes Virtuais para Reabilitação Cognitiva | 330 |  
+| 15.5 Ensino, Avaliação e Ferramentas para RV em Saúde | 334 |  
+| 15.5.1. Aplicações Voltadas ao Ensino e à Reabilitação | 334 |  
+| 15.5.2 Avaliação Automática de Habilidades | 336 |  
+| 15.6 Ambientes Virtuais Tridimensionais Aplicados como Brinquedo Terapêutico | 340 |  
+| 15.7 Uso da Realidade Virtual na Psicoterapia | 347 |  
+| 15.8 Tendências e oportunidades | 350 |  
+| Referências | 351 |  
 
 - 00:00:00 [Abertura do Evento](<https://youtu.be/LU-LJUo6fyA> "Abertura do Evento")  
 - 00:12:56 [Conceitos sobre RV e RA (Romeu Tori)](<https://youtu.be/LU-LJUo6fyA?t=772> "Conceitos sobre RV e RA (Romeu Tori)")  
