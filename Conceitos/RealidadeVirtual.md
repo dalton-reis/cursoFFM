@@ -243,6 +243,8 @@ Para saber mais...
 
 ----------
 
+<!--
+[FIXME: arrumar as fontes bibliográficas]  
 ## Principais Referências Bibliográficas​
 
 /Volumes/HD_APOIO/GIT/Projetos/programa_Habitat/habitat/bolsistas/AdamOliveira/pesquisaAquarioVirtual.pdf
@@ -251,3 +253,4 @@ EKENGREN, 2009 / HÖLLERER; FEINER, 2004
 
 - CARBONI, Irenice de Fátima. **[Lógica de programação](https://bu.furb.br/consulta/portalConsulta/recuperaMfnCompleto.php?menu=rapida&CdMFN=265888)**. São Paulo : Pioneira Thomson Learning, 2003. 240 p, il.​
 - MANZANO,
+-->
