@@ -247,7 +247,7 @@ Usar o celular para traduzir a placa projetada na porta
 
 ## Tipos de Visualizações
 
-<!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
+<!--  FIXME: mais tipos, imagens para cada tipo. TCC do Evandro Schimit  -->
 Também existe classificações para os tipos de visualizações usadas em RV: Video See-Through, Optical See-Through, Projetiva ... e outras.  
 
 ## SVR - Para saber mais
