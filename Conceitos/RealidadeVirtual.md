@@ -102,8 +102,8 @@ Alguns pontos que devem ser observados:
 
 Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
 
-- *Observacional* utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
-- *In Painting* tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
+- _Observacional_ utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
+- _In Painting_ tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
 
 Alguns pontos que devem ser observados com a RD:
 
@@ -202,7 +202,7 @@ Uma macro visão deste processo de [Interação](#interação "Interação") usa
 
 ### Estereoscopia
 
-Como um dos principais sentidos explorado nas Realidades Virtuais é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a Realidade Virtual Imersiva se tem a Estereoscopia.
+Como um dos principais sentidos explorado nas [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a [Realidade Virtual Imersiva - RVi](#realidade-virtual-imersiva-rv--rvi "Realidade Virtual Imersiva - RVi") se tem a Estereoscopia.
 
 Estereoscopia é uma técnica usada para se obter informações do espaço tridimensional, através da análise de duas imagens obtidas em pontos diferentes.
 
