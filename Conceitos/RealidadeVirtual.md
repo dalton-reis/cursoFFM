@@ -114,6 +114,8 @@ experiência de [imersão](#imersão "imersão") maior;
 
 ![Objetos Removidos - Tablet](./RealidadeVirtual_imgs/RD_Tablet.mov "Objetos Removidos - Tablet")  
 
+![Objetos Removidos Externo](./RealidadeVirtual_imgs/RD_Externo.mov "Objetos Removidos Externo")  
+
 ### Realidade Virtual Misturada
 
 Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".  
