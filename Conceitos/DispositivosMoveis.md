@@ -59,3 +59,4 @@ Entre o que se pode sugerir como boas práticas para acompanhar está acelerada 
 - pensar um passo a frente, a evolução é rápida.  
 - pouco em muito bem feito. O usuário facilmente adota um aplicativo, mas mais rápido ainda o abandona por problemas pequenos. A concorrência é grande).  
 - acompanhar as duas atuais maiores plataformas de dispositivos móveis.  
+- a grande variedade de especificações em uso. Antes que perguntem, é quase impossível executar uma aplicação de [Realidade Aumentada](./RealidadeVirtual.md#realidade-virtual-aumentada-ra "Realidade Aumentada") (RA) num Nokia "tijolão". Use como uma "arma" de defesa pessoal, mas não para RA.  
