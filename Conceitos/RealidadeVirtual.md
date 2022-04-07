@@ -227,28 +227,6 @@ Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo]
 O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
 
-### [Mundo Virtual](#mundo-virtual "mundo virtual") x [Mundo Real](#mundo-real "mundo real")
-
-marcador no mundo físico
-
-/Users/daltonreis/Library/Mobile Documents/com~apple~Keynote/Documents/Disciplinas/CG/cg-slides_u1.key
-
-- tudo no [mundo virtual](#mundo-virtual "mundo virtual")  
-- nos dois "mundos"  
-  - âncoras no [mundo real](#mundo-real "mundo real")
-  - marcadores
-
-O [mundo virtual](#mundo-virtual "mundo virtual") precisa modelar o mais fiel possível o [mundo real](#mundo-real "mundo real"), e ainda perceber as alterações do mundo para atualizar o [mundo virtual](#mundo-virtual "mundo virtual").
-
-Exemplo em sobrepor um objeto virtual em cima de um [mundo real](#mundo-real "mundo real").
-
-Placa virtual numa porta.
-Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
-
-.. ter algumas placas com texto em idiomas (inglês e Russo) para mostrar a tradução.
-
-Usar o celular para traduzir a placa projetada na porta
-
 ## Tipos de Visualizações
 
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do Evandro Schimit  -->
