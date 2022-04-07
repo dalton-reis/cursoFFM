@@ -10,7 +10,7 @@ Mas além da capacidade de aumentar o poder de processamento, ainda em paralelo 
 
 Um aspecto importante a ser observado são as novas (não tão novas, mas sim cada vez mais factíveis) de interagir com estes dispositivos móveis. Como por exemplo, novas opções de tela, gestos, comandos por voz, reconhecimento por imagem, sensores a laser, e outros que ainda podem vir.
 
-- Opções de Tela: impressiona, mas ainda vai ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. E quem sabe um smartphone com tela infinita.  
+- Opções de Tela: impressiona, mas ainda vai ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. E quem sabe, talvez, um smartphone com tela infinita.  
 ![Xiaomi MI Mix Alpha](./DispositivosMoveis_imgs/Xiaomi_Tela.mov "Xiaomi MI Mix Alpha")  
 
 ### Uso de Gestos
