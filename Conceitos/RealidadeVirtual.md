@@ -131,7 +131,8 @@ Alguns pontos que devem ser observados:
 
 Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
 
-![Realidade Misturada](./RealidadeVirtual_imgs/RM.drawio.svg "Realidade Misturada")  
+<!-- [TODO: figura não aparece na Web qdo uso Areas.drawio.svg] -->  
+![Realidade Misturada](./RealidadeVirtual_imgs/RM.svg "Realidade Misturada")  
 
 Para se pensar ...
 
