@@ -50,6 +50,7 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 <!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
 Um exemplo de uso de RV é um usuário usando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário.  
 
+
 ### Realidade Virtual Aumentada (RA)  
 
 As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
@@ -107,6 +108,8 @@ Pokemon Go ("febre") .. além do entretenimento, outras funcionalidades ... algo
 Jogo de realidade alternativa do Google chega ao iOS
 <http://olhardigital.uol.com.br/noticia/jogo-de-realidade-alternativa-do-google-chega-ao-ios/43050>
  -->
+
+<!-- link para o vídeo da apresentação de abertura do SVR -->  
 
 ### Metaverso  
 
@@ -182,12 +185,30 @@ Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
 
 Usar o celular para traduzir a placa projetada na porta
 
-----------
-
 ## Tipos de Visualizações
 
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
 Video See-Through, Optical See-Through, Projetiva ...  
+
+## Symposium on Virtual and Augmented Reality - SVR
+
+Para saber mais...
+  Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
+  Data: 07/11/2020  
+  Formato: Remoto  
+
+- 00:00:00 [Abertura do Evento](<https://youtu.be/LU-LJUo6fyA> "Abertura do Evento")  
+- 00:12:56 [Conceitos sobre RV e RA (Romeu Tori)](<https://youtu.be/LU-LJUo6fyA?t=772> "Conceitos sobre RV e RA (Romeu Tori)")  
+- 00:34:26 [Aplicações de RV e RA em Saúde](<https://youtu.be/LU-LJUo6fyA?t=2066> "Aplicações de RV e RA em Saúde")  
+- 00:56:31 [Perguntas e Respostas](<https://youtu.be/LU-LJUo6fyA?t=3392> "Perguntas e Respostas")  
+- 01:13:42 SVR | Break
+- 01:30:17 [Deep Reinforcement Learning em Ambientes Virtuais](<https://youtu.be/LU-LJUo6fyA?t=5417> "Deep Reinforcement Learning em Ambientes Virtuais")  
+- 01:53:28 [Ecossistema XR no Brasil: desafios, oportunidades, ameaças e perspectivas](<https://youtu.be/LU-LJUo6fyA?t=6808> "Ecossistema XR no Brasil: desafios, oportunidades, ameaças e perspectivas")  
+- 02:12:00 [Realidade Estendida em Treinamentos Corporativos](<https://youtu.be/LU-LJUo6fyA?t=7920> "Realidade Estendida em Treinamentos Corporativos")  
+- 02:23:00 [Perguntas e Respostas](<https://youtu.be/LU-LJUo6fyA?t=8583> "Perguntas e Respostas")  
+- 02:44:00 Encerramento
+
+----------
 
 ## Principais Referências Bibliográficas​
 
