@@ -22,6 +22,11 @@ Outro aspecto que se começou a ser explorado e o uso de gestos para interagir c
 
 ### Comandos por Voz
 
+Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Microsoft_Cortana> "Cortana") (Microsoft), [Google Now](<https://pt.wikipedia.org/wiki/Google_Assistente> "Google Now") (Google), [Alexa](<https://pt.wikipedia.org/wiki/Amazon_Alexa> "Alexa") (Amazon), e a [Siri](<https://pt.wikipedia.org/wiki/Siri_(software)> "Siri") (Apple). Com tantas assistentes disponíveis, e cada vez mais se evoluindo, imagino que a curto prazo não precisaremos mais "trabalhar". Bom, cuidado com a volta do "Exterminador do Futuro" ... brincadeira, ainda estamos passando por um processo de evolução. Algumas características que marcam este avanço são:
+
+- gradual aceite do usuário, ter de conversar com uma máquina.  
+- melhora significativa no reconhecimento ([Speech-To-Text](<https://pt.wikipedia.org/wiki/Reconhecimento_de_fala> "Speech-To-Text")), síntese ([Text-To-Speech](<https://pt.wikipedia.org/wiki/S%C3%ADntese_de_fala> "Text-To-Speech"))  e interpretação de contexto usando o audio.  
+
 ### Reconhecimento por Imagem
 
 ### Sensores a laser
