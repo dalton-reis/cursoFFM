@@ -79,7 +79,7 @@ Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equ
 
 ### Realidade Virtual Aumentada (RA)  
 
-As aplicações que usam Realidade Aumentada devem ter três características: combinar real com virtual, ter [interação](#interação "interação") em "tempo real" e usar o espaço 3D.  
+Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter [interação](#interação "interação") em "tempo real" e usar o espaço 3D.  
 
 Alguns pontos que devem ser observados:
 
@@ -96,12 +96,12 @@ Alguns pontos que devem ser observados:
 
 ### Realidade Virtual Diminuída  
 
-"Esconde" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos:  
+Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
 
 - *Observacional* utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
 - *In Painting* tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
 
-Alguns pontos que devem ser observados:
+Alguns pontos que devem ser observados com a RD:
 
 - utilizado normalmente em produções de vídeo/imagens, onde elementos não desejáveis precisam ser removidos;  
 - pode permitir que o usuário remova objetos de vídeos em tempo real;  
