@@ -142,8 +142,7 @@ Para se pensar ...
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
 ![Corpo Humano](./RealidadeVirtual_imgs/RM_CorpoHololens.mov "Corpo Humano")  
-
-<!-- FIXME: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>   -->
+Para saber mais: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>  
 
 ### Realidade Virtual Alternativa  
 
