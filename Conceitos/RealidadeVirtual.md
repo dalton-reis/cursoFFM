@@ -90,7 +90,7 @@ Alguns pontos que devem ser observados:
 #### RA - Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
-- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
+- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
 - [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
 - [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
 
