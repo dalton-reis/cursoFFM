@@ -67,10 +67,15 @@ Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.
 #### RV - Exemplos
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
-<!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
+<!-- FIXME: uma imagem para RV de acordo com o texto abaixo -->
+
+A RVi explora o uso HMD para "controlar" o campo de visão do usuário.  
 
 - [Usuário Imerso](./RealidadeVirtual_imgs/RVi_Usuario.mov "Usuário Imerso")  
 
+Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
+
+- ![Usuário Diversão - Tato](./RealidadeVirtual_imgs/RVi_Diversao.png "Usuário Diversão")  
 
 ### Realidade Virtual Aumentada (RA)  
 
