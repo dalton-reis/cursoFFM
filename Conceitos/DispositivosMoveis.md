@@ -10,7 +10,8 @@ Mas além da capacidade de aumentar o poder de processamento, ainda em paralelo 
 
 Um aspecto importante a ser observado são as novas (não tão novas, mas sim cada vez mais factíveis) de interagir com estes dispositivos móveis. Como por exemplo, novas opções de tela, gestos, comandos por voz, reconhecimento por imagem, sensores a laser, e outros que ainda podem vir.
 
-### Opções de Tela
+- Opções de Tela: impressiona, mas ainda vai ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. Quem sabe um smartphone com tela infinita.  
+![Xiaomi MI Mix Alpha](./DispositivosMoveis_imgs/Xiaomi_Tela.mov "Xiaomi MI Mix Alpha")  
 
 ### Uso de Gestos
 
@@ -36,10 +37,6 @@ Automator
 
 A maior quantidade de Aplicativos ainda são os jogos, e por um bom tempo será um mercado dominante. Mas as **"modinhas"** atuais são [Realidade Virtual](./RealidadeVirtual.md "Realidade Virtual"), [Internet das Coisas](./InternetDasCoisas.md "Internet das Coisas") e Saúde. Existem produtos (WebSites) que permitem acompanhar estas tendências, como também se tem dados estatísticos disponibilizados quando seu Aplicativo é publicado em uma das lojas oficiais ([Apple](<https://apps.apple.com/> "Apple") e [Google](<https://play.google.com/store> "Google")).  
 
-ARKit
-ARCore
-Vuforia
-    
 
 Apple Saude
 
@@ -60,3 +57,5 @@ Entre o que se pode sugerir como boas práticas para acompanhar está acelerada 
 - pouco em muito bem feito. O usuário facilmente adota um aplicativo, mas mais rápido ainda o abandona por problemas pequenos. A concorrência é grande).  
 - acompanhar as duas atuais maiores plataformas de dispositivos móveis.  
 - a grande variedade de especificações em uso. Antes que perguntem, é quase impossível executar uma aplicação de [Realidade Aumentada](./RealidadeVirtual.md#realidade-virtual-aumentada-ra "Realidade Aumentada") (RA) num Nokia "tijolão". Use como uma "arma" de defesa pessoal, mas não para RA.  
+- inove, mas não "reme contra a corrente" .. é cansativo e se perder clientes.  
+- não reinvente a "roda", porque gastar recursos (tempo, verba etc.) para refazer o que o próprio [Hardware](#hardware-móvel "Hardware"), Sistema Operacional ou [Ambiente de Desenvolvimento](#software-móvel "Ambiente de Desenvolvimento") já oferecem como solução.  
