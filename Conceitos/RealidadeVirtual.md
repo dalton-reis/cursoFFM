@@ -1,6 +1,6 @@
 # Conceitos: Realidade Virtual (RV)
 
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualização](#tipos-de-visualização "Visualização")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
+No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
 
 ## Termos
 
@@ -184,7 +184,7 @@ Usar o celular para traduzir a placa projetada na porta
 
 ----------
 
-## Tipos de Visualização
+## Tipos de Visualizações
 
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
 Video See-Through, Optical See-Through, Projetiva ...  
