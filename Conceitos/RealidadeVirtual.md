@@ -1,6 +1,6 @@
 # Conceitos: Realidade Virtual (RV)
 
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Visualização](#tipos-de-visualização "Visualização") e de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
+No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualização](#tipos-de-visualização "Visualização")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
 
 ## Termos
 
@@ -30,11 +30,6 @@ Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicio
 ![Ivan Sutherland](RealidadeVirtual_imgs/Historia_IvanSutherland.png "Ivan Sutherland")  
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
-
-## Tipos de Visualização
-
-<!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
-Video See-Through, Optical See-Through, Projetiva ...  
 
 ## Tipos de Realidades Virtuais
 
@@ -188,6 +183,11 @@ Hoje é simples pegar um texto de uma placa e sobrepor a tradução deste texto.
 Usar o celular para traduzir a placa projetada na porta
 
 ----------
+
+## Tipos de Visualização
+
+<!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
+Video See-Through, Optical See-Through, Projetiva ...  
 
 ## Principais Referências Bibliográficas​
 
