@@ -161,7 +161,7 @@ Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se vi
 
 ### Metaverso  
 
-Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
+Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](<https://en.wikipedia.org/wiki/VRChat> "VRChat"), [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life"), [Roblox](<https://pt.wikipedia.org/wiki/Roblox> "Roblox"), [Fortnite](<https://pt.wikipedia.org/wiki/Fortnite> "Fortnite"), [Facebook Meta](<https://about.facebook.com/br/meta/> "Facebook Meta") etc.  
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
