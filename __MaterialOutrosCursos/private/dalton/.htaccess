@@ -1,0 +1,7 @@
+AuthName "Restricted Area - Dalton Reis"
+AuthType Basic
+AuthUserFile /lp/home/dalton/public_html/temp/private/irpf/.htpasswd
+<Limit GET> 
+require valid-user 
+</Limit>
+
