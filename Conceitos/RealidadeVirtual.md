@@ -197,6 +197,7 @@ Então, "como percebemos o mundo a nossa volta" ... qual "Interface" é utilizad
 
 A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a [Imersão](#imersão "imersão"), [Interação](#interação "interação") e [Envolvimento](#envolvimento "envolvimento") (os pilares das Realidades Virtuais) do usuário entre o [Mundo Real](#mundo-real "mundo real") e [Mundo Virtual](#mundo-virtual "mundo virtual"). A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
 
+Uma macro visão deste processo de [Interação](#interação "Interação") usando a relação Homem x Hardware x Software pode ser observado neste diagrama abaixo.  
 ![Interface - camadas](./RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
 
 ### Estereoscopia
