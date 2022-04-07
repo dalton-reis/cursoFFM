@@ -167,7 +167,7 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 
 Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit) e assumi o compromisso de ser a maior plataforma de RA do Mundo.
 
-<iframe src="https://share.newsroom.apple/br/newsroom/embed/videos/?embedvideoid=0e9ddba360be9dd77ac4881ea2fa6cdb" width="1280" height="720" title="ARKit 2 modo observador" allowfullscreen></iframe>
+![RA Apple](<https://share.newsroom.apple/br/newsroom/embed/videos/?embedvideoid=0e9ddba360be9dd77ac4881ea2fa6cdb> "RA Apple").  
 
 FIXME: https://youtu.be/PkWr7KhD44Q
 FIXME: https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf
