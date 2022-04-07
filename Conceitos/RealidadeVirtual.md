@@ -1,6 +1,6 @@
 # Conceitos: Realidade Virtual (RV)
 
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto.  
+No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
 
 ## Termos
 
@@ -50,8 +50,10 @@ Alguns pontos que devem ser observados para aumentar a imersão:
 
 A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
-<!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
+#### RV - Exemplos
+
 Um exemplo de uso de RV é um usuário usando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário.  
+<!-- FIXME: uma imagem para RV e outra para RVi de acordo com o texto abaixo -->
 
 ### Realidade Virtual Aumentada (RA)  
 
@@ -63,7 +65,7 @@ Alguns pontos que devem ser observados:
 - único sentido: do virtual para real ou real para virtual (mais comum);  
 - necessidade de marcadores <!-- FIXME: link --> (âncoras) no mundo real.  
 
-#### Exemplos
+#### RA - Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RealidadeAumentada_MesaTatil.mov "Mesa Tátil da TV Globo")  
@@ -83,6 +85,8 @@ Alguns pontos que devem ser observados:
 - pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
 experiência de imersão maior;  
 
+#### RD - Exemplos
+
 <!-- FIXME: baixar vídeo de exemplo <https://www.youtube.com/watch?v=l_GtDezeA2w> 
 <https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/>  -->
 
@@ -98,6 +102,8 @@ Alguns pontos que devem ser observados:
 
 "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
 
+#### RM - Exemplos
+
 <!-- FIXME: <https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality>   -->
 
 ### Realidade Virtual Alternativa  
@@ -109,6 +115,8 @@ Alguns pontos que devem ser observados:
 - transforma o mundo real em um cenário para a interação do usuário;  
 - incentiva que os usuários se "movimentem" no mundo real para interagir com os objetos virtuais no mundo real.  
 
+#### RAl - Exemplos
+
 <!-- FIXME: 
 Pokemon Go ("febre") .. além do entretenimento, outras funcionalidades ... algo que é "construído" com o apoio do coletivo (gratuito) ... Waze, notificações de ocorrências, velocidade etc.
 Jogo de realidade alternativa do Google chega ao iOS
@@ -116,26 +124,19 @@ Jogo de realidade alternativa do Google chega ao iOS
  -->
 #### Pokemon GO (Nathan Reikdal Cervieri)
 
-Jogo, marca conhecida
-Realidade Alternativa
-Na minha época era uma forma simples de "colocar" o personagem virtual no mundo real.
-Usar objetos reais ...  Pokéball Plus .. interação com o jogo
-https://www.youtube.com/watch?v=3UWnEo3A5fU
-
-
-<!-- link para o vídeo da apresentação de abertura do SVR -->  
+- [Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokéball Plus")  
 
 ### Metaverso  
-
-FIXME: https://youtu.be/PkWr7KhD44Q
-FIXME: https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf
-FIXME: https://youtu.be/IqTC4lsxNfk (video enviado no chat dos professores do BCC)
 
 Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela primeira vez em 1992, e exemplos mais recentes são os jogos VRChat, Second Life, Roblox, Fortnite, Facebook etc.  
 
 Second Life é um jogo de 2003 criado pela Linden Lab. O propósito do Second Life era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, usando SharePlay na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos. Curta uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo.
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, mudou em 2021 o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, usando SharePlay na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos. Curta uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo.  
+
+FIXME: https://youtu.be/PkWr7KhD44Q
+FIXME: https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf
+FIXME: https://youtu.be/IqTC4lsxNfk (video enviado no chat dos professores do BCC)
 
 #### Críticas e preocupações
 
@@ -202,11 +203,12 @@ Usar o celular para traduzir a placa projetada na porta
 ## Tipos de Visualizações
 
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do EvandroSchimit  -->
-Video See-Through, Optical See-Through, Projetiva ...  
+Também existe classificações para os tipos de visualizações usadas em RV: Video See-Through, Optical See-Through, Projetiva ... e outras.  
 
-## Symposium on Virtual and Augmented Reality - SVR
+## Para saber mais
 
-Para saber mais...
+### Symposium on Virtual and Augmented Reality - SVR
+
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
@@ -243,6 +245,10 @@ Para saber mais...
 - 02:12:00 [Realidade Estendida em Treinamentos Corporativos](<https://youtu.be/LU-LJUo6fyA?t=7920> "Realidade Estendida em Treinamentos Corporativos")  
 - 02:23:00 [Perguntas e Respostas](<https://youtu.be/LU-LJUo6fyA?t=8583> "Perguntas e Respostas")  
 - 02:44:00 Encerramento
+
+### Mais exemplos
+
+[Outros Exemplos](./OutrosExemplos/ "Outros Exemplos")  
 
 ----------
 
