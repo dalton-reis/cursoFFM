@@ -57,11 +57,10 @@ Onde me achar, o que faço etc...
 
 Mediador: Dalton (separar em 4 equipes)  
 
-- (15 min) [Preparação das ideias para discussão](./Dinamica/README.md "Preparação das ideias para discussão")  
-  - (10 min) [Grupo Realidade Virtual (GRV)](./Dinamica/GrupoRealidadeVirtual.md "grupo Realidade Virtual (GRV)")  
-  - (10 min) [Grupo Dispositivos Móveis (GDM)](./Dinamica/GrupoDispositivosMoveis.md "Grupo Dispositivos Móveis (GDM)")  
-  - (10 min) [Grupo Dispositivos Vestíveis (GDV)](./Dinamica/GrupoDispositivosVestiveis.md "grupo Dispositivos Vestíveis (GDV)")  
-  - (10 min) [Grupo Internet das Coisas (GIC)](./Dinamica/GrupoInternetDasCoisas.md "Grupo Internet das Coisas (GIC)")  
+- (25 min) [Preparação das ideias para discussão](./Dinamica/README.md "Preparação das ideias para discussão")  
+  - (10 min) Grupo A  
+  - (10 min) Grupo B  
+  - (10 min) Grupo C  
 - (5 min) Fechamento geral  
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boa noite 😉  
