@@ -62,7 +62,6 @@ Ou num treinamento militar com a opção de se "movimentar sem sair do lugar" ([
 ![Virtusphere](./Hardware_imgs/Oculus_VirtuSphere.png "Virtusphere")  
 
 ### Luva de Dados (Data Glove)
-
   
     Tipo de informação: vetorial  
     Dimensão da informação: 3D  
@@ -100,29 +99,13 @@ Tipos de Beacons
 
 Imagen TCC Klaus beacon miguel
 
-Falar do AirTag
-
-### Sensor LiDAR
-
-<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#2021-ii-bruno-h-borba---explorar-digitalização-3d-em-tempo-real-utilizando-recursos-ios>
-
-Apple LiDAR
-
-ArKit Apple
-  LIDAR (scanner) -> iphone 12 pro
-  Light Detection and Ranging (LiDAR) - Detecção por Variação de Luz
-O que o LiDAR pode contribuir para Realidade Virtual Imerssiva e Realidade Aumentada.
-Uma parte importante deste material é quando ele cita que o LiDAR consegue obter em tempo real os dados 3D e serem processados em tempo real pelo ARKit. Além de poder obter a cor e intensidade de luz do ambiente real.
-https://everypoint.medium.com/everypoint-gets-hands-on-with-apples-new-lidar-sensor-44eeb38db579
-
-
-### Apple Watch
-
-### Braçadeira Myo
-
-### Fones de Ouvido localização Espacial
+E recentemente se tem uma opção da Samsung e da Apple (AirTag).  
+![AirTag](./Hardware_imgs/AirTag.png "AirTag")  
 
 ### Acelerômetro
 
-É um dispositivo usado para medir a aceleração própria de um sistema (explicação do "copo de água").  
-![Acelerômetro](./Hardware_imgs/Acelerometro.png "Acelerômetro")  
+E ainda se tem os tradicionais, como o Acelerômetro, que é um dispositivo usado para medir a aceleração própria de um sistema.  
+![Acelerômetro](./Hardware_imgs/Acelerometro_Maior.png "Acelerômetro")  
+
+Explicação do "copo de água".  
+![Acelerômetro Copo Água](./Hardware_imgs/Acelerometro.drawio.svg "Acelerômetro Copo Água")  
