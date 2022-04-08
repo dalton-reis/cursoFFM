@@ -9,6 +9,13 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Tipo de Referência: absoluta / relativa  
 - Etapas: Entrada / Processo / Saída  
 
+As opções melhores são:
+
+- Tipo de informação: raster
+- Dimensão da informação: nD  
+- Tipo de Referência: absoluta relativa  
+
+
 ![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
 
 Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
@@ -50,20 +57,31 @@ E da Apple .. só especulação.
 
 ### Luva de Dados (Data Glove)
 
-    Dispositivo de entrada  
   
+    Tipo de informação: vetorial  
+    Dimensão da informação: 3D  
+    Tipo de Referência: absoluta / relativa  
+    Etapas: Entrada  
+
+Curiosidades:  
+
 - primeira foi criada em 1977  
-- monitora os movimentos da mão  
-- algumas permitem a detecção tátil  
-- poucos avanços no desenvolvimento, muitos desenvolvedores optaram pelo uso de câmeras e
-sensores para a captação dos movimentos  
+- monitora os movimentos da mão, mas nem sempre monitora a posição da mão no [mundo real](../Conceitos/RealidadeVirtual.md#mundo-real "mundo real")  
+- algumas permitem o retorno tátil  
+- poucos avanços no desenvolvimento, muitos desenvolvedores optaram pelo uso de câmeras e sensores para a captação dos movimentos  
 
-![Luva Power Glove](LuvaPowerGlove.png "Luva Power Glove")  
-<https://pt.wikipedia.org/wiki/Power_Glove>
+Alguns exemplo:  
 
-![Luva Articulada](LuvaArticulacao.png "Luva Articulada")  
+[Luva Power Glove](<https://pt.wikipedia.org/wiki/Power_Glove> "Luva Power Glove")  
+![Luva Power Glove](./Hardware_imgs/LuvaPowerGlove.png "Luva Power Glove")  
 
-LeapMotion
+Luva Articulada  
+![Luva Articulada](./Hardware_imgs/LuvaArticulacao.png "Luva Articulada")  
+
+Uma outra opção seria o LeapMotion que também permite capturar os gestos das mãos com uma precisão muito boa, mas não se tem a sensação tátil. Mas tem a vantagem por não precisar vestir uma luva.  
+![Exemplo de uso LeapMotion Cat Explorer](./Hardware_imgs/LeapMotion_Cat.mov "Exemplo de uso LeapMotion Cat Explorer")  
+[Exemplo de uso LeapMotion Cat Explorer](<https://www.youtube.com/watch?v=uBvNbpNTGrI> "Exemplo de uso LeapMotion Cat Explorer")  
+
 
 ## Marcador no Mundo Físico
 

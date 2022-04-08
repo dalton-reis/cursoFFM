@@ -34,6 +34,8 @@ Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Micro
 - gradual aceite do usuário, ter de conversar com uma máquina.  
 - melhora significativa no reconhecimento ([Speech-To-Text](<https://pt.wikipedia.org/wiki/Reconhecimento_de_fala> "Speech-To-Text")), síntese ([Text-To-Speech](<https://pt.wikipedia.org/wiki/S%C3%ADntese_de_fala> "Text-To-Speech"))  e interpretação de contexto usando o audio.  
 
+Outro exemplo é a tentativa em começar a usar reconhecimento de audio do ambiente, como a recomendação em usar 20 segundos para lavar as mãos (Apple).
+
 ### Reconhecimento por Imagem ou Sensores a laser
 
 Alguém sabe me dizer porque um smartphone precisa ter tantas câmeras? Bom, posso não saber, mas ter um aparelho com várias câmeras está na "moda", então deve ser "bom" (ah, e eu também quero um assim 🤩 ). Vamos com calma, podemos a grosso modo dividir os tipos de câmeras em dois grupos, as com objetivo de transformar o seu aparelho em um Studio Móvel que nem a MGM tinha uns anos atrás, e outras com objetivo de dar o "poder" ao seu aparelho de além enxergar, pode ver o mundo a sua volta.  
