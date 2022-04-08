@@ -36,11 +36,14 @@ Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Micro
 
 Alguém sabe me dizer porque um smartphone precisa ter tantas câmeras? Bom, posso não saber, mas ter um aparelho com várias câmeras está na "moda", então deve ser "bom" (ah, e eu também quero um assim 🤩 ). Vamos com calma, podemos a grosso modo dividir os tipos de câmeras em dois grupos, as com objetivo de transformar o seu aparelho em um Studio Móvel que nem a MGM tinha uns anos atrás, e outras com objetivo de dar o "poder" ao seu aparelho de além enxergar, pode ver o mundo a sua volta.  
 
-E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos de inferência sobre o que se vê por intermédio do aparelho. Além dos usos de Visão Computacional (VC), se tem um avanço **enorme** na [Realidade Virtual](./RealidadeVirtual.md#conceitos-realidade-virtual-rv "Realidade Virtual"). O que permite se ter com duas câmera a percepção de profundidade usando a mesmo conceito da [Estereoscopia](./RealidadeVirtual.md#estereoscopia "Estereoscopia"), o que se conhece como Câmera _Truedepth_, possibilitando funcionalidades como o [_Face ID_](<https://pt.wikipedia.org/wiki/Face_ID> "Face ID") (Apple).  
+E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos de inferência sobre o que se vê por intermédio do aparelho. Além dos usos de Visão Computacional (VC), se tem um avanço **enorme** na [Realidade Virtual](./RealidadeVirtual.md#conceitos-realidade-virtual-rv "Realidade Virtual"). Exemplo do uso de VC poderia ser um Aplicativo para detecçÃo do cancer de pele ([SkinCheck](<https://neosus.net/skincheck/#/> "SkinCheck")). O que permite se ter com duas câmera a percepção de profundidade usando a mesmo conceito da [Estereoscopia](./RealidadeVirtual.md#estereoscopia "Estereoscopia"), o que se conhece como Câmera _Truedepth_, possibilitando funcionalidades como o [_Face ID_](<https://pt.wikipedia.org/wiki/Face_ID> "Face ID") (Apple).  
 
 E estas câmeras nos aparelhos móveis já podem vir com sensores a laser, parecido com a tecnologia usada nos [sensores do Kinect](<https://pt.wikipedia.org/wiki/Kinect> "sensores do Kinect"), o sensor [LiDAR](<https://pt.wikipedia.org/wiki/LIDAR> "LiDAR").  
 
 ### Futuro do Hardware Móvel
+
+Em resumo, se tem várias formas de "entrada" e "saída" de informação nos aparelhos móveis, como pode ser observado:
+![Hardware_ES](./DispositivosMoveis_imgs/Hardware_ES.png "Hardware_ES")  
 
 Espero pode presenciar algo parecido com este projeto de conceito futurístico.  
 ![Smartphone Pulseira](./DispositivosMoveis_imgs/Smartphone_Pulseira.mov "Smartphone Pulseira")  
@@ -76,14 +79,16 @@ Já a opção Multiplataforma se usa um ambiente que permite um único desenvolv
 
 Alguns aspectos devem ser considerados:
 
-- vantagem por estar sempre atualizado com os avanços do hardware do aparelho e Sistema Operacional  
-- desvantagem em ter que se manter uma equipe de desenvolvimento específica para plataforma escolhida (iOS ou Android)  
-
-
+- vantagem em poder manter uma única equipe de desenvolvimento para as duas plataforma (iOS ou Android)  
+- desvantagem por estar "um pouco" desatualizado com os avanços do hardware do aparelho e Sistema Operacional  
 
 ### Desenvolvimento direto com o Usuário
 
-Automator
+Algumas opções de programação mais "alto nível" ([low-code](<https://en.wikipedia.org/wiki/Low-code_development_platform>) "low-code") estão começando aparecer como um opção direto no Sistema Operacional dos Smartphones. Por exemplo na Apple:  
+
+- Atalhos ([Shortcuts](<https://en.wikipedia.org/wiki/Shortcuts_(app)> "Shortcuts"))  
+- Saúde ([Health](<https://en.wikipedia.org/wiki/Health_(Apple)> "Health"))  
+- Carteira ([Wallet](<https://pt.wikipedia.org/wiki/Apple_Wallet> "Wallet"))
 
 ## Mercado Móvel
 
@@ -91,12 +96,6 @@ Após o desenvolvimento se depara com a etapa de publicação nas lojas, que bas
 ![Regras de Negócio](./DispositivosMoveis_imgs/Desenvolver_RegraNegocio.png "Regras de Negócio")  
 
 A maior quantidade de Aplicativos ainda são os jogos, e por um bom tempo será um mercado dominante. Mas as **"modinhas"** atuais são [Realidade Virtual](./RealidadeVirtual.md "Realidade Virtual"), [Internet das Coisas](./InternetDasCoisas.md "Internet das Coisas") e Saúde. Existem produtos (WebSites) que permitem acompanhar estas tendências, como também se tem dados estatísticos disponibilizados quando seu Aplicativo é publicado em uma das lojas oficiais ([Apple](<https://apps.apple.com/> "Apple") e [Google](<https://play.google.com/store> "Google")).  
-
-
-Apple Saude
-
-
-Exemplo de marcar um compromisso para beber café em casa
 
 https://neosus.net/skincheck/#/
 
