@@ -35,9 +35,9 @@ Onde me achar, o que faço etc...
 
 - [Conceitos](./Conceitos/README.md "Conceitos sobre as quatro áreas") (5 min)  
   - [Realidade Virtual (RV)](./Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)") (40 min)  
-  - [Dispositivos Móveis](./Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis") (15 min)  
+  - [Dispositivos Móveis](./Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis") (20 min)  
   - [Dispositivos Vestíveis](./Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis") (10 min)  
-  - [Internet das Coisas (IOT)](./Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)") (10 min)  
+  - [Internet das Coisas (IOT)](./Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)") (5 min)  
 
 ### Coffee Break
 

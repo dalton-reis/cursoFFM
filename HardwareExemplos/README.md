@@ -2,6 +2,8 @@
 
     20:00~20:20 (20 min)  
 
+## Hardwares
+
 Para facilitar o entendimento de algumas tecnologias um pouco mais complexas podemos abstrair em algumas separações mais simples:
 
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
@@ -15,7 +17,6 @@ As opções melhores são:
 - Dimensão da informação: nD  
 - Tipo de Referência: absoluta relativa  
 
-
 ![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
 
 Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
@@ -25,7 +26,7 @@ Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temo
 - [Dispositivos Vestíveis](../Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
 - [Internet das Coisas (IOT)](../Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)")  
 
-## Óculos de Realidade Virtual (HMD - Head-Mounted Display)
+### Óculos de Realidade Virtual (HMD - Head-Mounted Display)
 
     Tipo de informação: raster  
     Dimensão da informação: 2D
@@ -102,3 +103,10 @@ E ainda se tem os tradicionais, como o Acelerômetro, que é um dispositivo usad
 
 Explicação do "copo de água".  
 ![Acelerômetro Copo Água](./Hardware_imgs/Acelerometro.drawio.svg "Acelerômetro Copo Água")  
+
+## Exemplos
+
+Alguns exemplos de uso dos Hardwares.  
+
+- [Exemplos Externos](./ExemplosExternos.md "Exemplos Externos")  
+- [Exemplos Internos](./ExemplosInternos.md "Exemplos Internos")  

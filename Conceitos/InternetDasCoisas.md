@@ -1,6 +1,6 @@
 # Conceitos: Internet das Coisas (IC)
 
-    19:30~19:40 (10 min)  
+    19:35~19:40 (5 min)  
 
 (IOT)  
 
