@@ -55,6 +55,9 @@ Ou então o HMD ser uma unidade independente que não precise de um Smartphone:
 
 E da Apple .. só especulação.  
 
+Mas se uso é bem antigo, e pode ser associado com outras formas para permitir explorar os outros sentidos, como visto nesta simulação de treinamento de paraquedistas.
+![TreinamentoParaquedas](./Hardware_imgs/Oculus_TreinamentoParaquedas.png "TreinamentoParaquedas")  
+
 ### Luva de Dados (Data Glove)
 
   
@@ -82,12 +85,19 @@ Uma outra opção seria o LeapMotion que também permite capturar os gestos das 
 ![Exemplo de uso LeapMotion Cat Explorer](./Hardware_imgs/LeapMotion_Cat.mov "Exemplo de uso LeapMotion Cat Explorer")  
 [Exemplo de uso LeapMotion Cat Explorer](<https://www.youtube.com/watch?v=uBvNbpNTGrI> "Exemplo de uso LeapMotion Cat Explorer")  
 
+## Marcador no [Mundo Real](../Conceitos/RealidadeVirtual.md#mundo-real "Mundo Real")
 
-## Marcador no Mundo Físico
+Outro grupo interessante que está cada vez mais tendo avanços são os 
 
 ### Beacons
 
-AirTag
+Outro grupo interessante de hardwares são os Beacons que permite georreferenciar uma posição do mundo real utilizando uma conexão bluetooth. Existem vários tipos de Beacons como pode ser visto abaixo.  
+
+Tipos de Beacons  
+
+Imagen TCC Klaus beacon miguel
+
+Falar do AirTag
 
 ### Sensor LiDAR
 
