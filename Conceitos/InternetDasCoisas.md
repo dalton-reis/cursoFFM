@@ -2,7 +2,7 @@
 
     19:35~19:40 (5 min)  
 
-E por fim, mas não menos importante, a Internet das Coisas (IoT). Basicamente consiste em buscar soluções de baixo custo para integrar de forma digital vários recursos físicos do nosso dia-a-dia. Como exemplo poderia ser pensar nas palavras deste conceito "Internet das Coisas", onde "Coisas" seriam equipamentos físicos os quais possam participar do processo computacional (Entrada/Processo/Saída) utilizando alguma conectividade ("Internet").  
+E por fim, mas não menos importante, a Internet das Coisas (IoT). Basicamente consiste em buscar soluções de baixo custo para integrar de forma digital vários recursos físicos do nosso dia-a-dia. Como exemplo poderia ser pensar nas palavras deste conceito "Internet das Coisas", onde "Coisas" seriam equipamentos físicos os quais possam participar do [processo computacional](../HardwareExemplos/README.md#processo-computacional "processo computacional") (Entrada/Processo/Saída) utilizando alguma conectividade ("Internet").  
 
 O que todas elas tem em comum? Podemos observar:  
 ![Diagrama Casa 1](./InternetDasCoisas_imgs/CasaDiagrama_01.png "Diagrama Casa 1")

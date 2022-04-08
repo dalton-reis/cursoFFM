@@ -11,6 +11,8 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Tipo de Referência: absoluta / relativa  
 - Etapas: Entrada / Processo / Saída  
 
+### Processo Computacional
+
 ![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
 
 As opções melhores são:
