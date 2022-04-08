@@ -9,7 +9,7 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Tipo de Referência: absoluta / relativa  
 - Etapas: Entrada / Processo / Saída  
 
-![etapas](EPS.drawio.svg "etapas")  
+![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
 
 Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
 
