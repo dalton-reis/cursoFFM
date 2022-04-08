@@ -2,7 +2,7 @@
 
 Para facilitar o entendimento de algumas tecnologias um pouco mais complexas podemos abstrair em algumas separações mais simples:
 
-- Etapas: entrada / Processo / Saída
+- Etapas: entrada / Processo / Saída  
 ![etapas](EPS.drawio.svg "etapas")  
   
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
