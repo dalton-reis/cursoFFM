@@ -71,11 +71,11 @@ Alguns aspectos devem ser considerados:
 
 Já a opção Multiplataforma se usa um ambiente que permite um único desenvolvimento, mas gerando uma aplicação para a plataforma Apple e outra aplicação para Android. Existem várias opções:
 
-- Unity
-- Flutter
-- React Native (Facebook)
-- Ionic
-- Embarcadero (Delphi)
+- [Unity](<https://www.unity.com> "Unity")  
+- [Flutter](<https://flutter.dev/> "Flutter")  
+- [React Native](<https://reactnative.dev> "React Native") (Facebook)  
+- [Ionic](<https://ionicframework.com> "Ionic")  
+- [Embarcadero](<https://www.embarcadero.com/?utm_source=Google&utm_medium=PPC&utm_content=Brand-Exact&gclid=Cj0KCQjwl7qSBhD-ARIsACvV1X2f0-zqIyfyoE8O6QK64VNjVsKK5lMgo3aRKXwc4Bv9JiXqd63RixIaAkKcEALw_wcB> "Embarcadero") (Delphi)
 
 Alguns aspectos devem ser considerados:
 
