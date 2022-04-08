@@ -48,8 +48,8 @@ Onde me achar, o que faço etc...
     20:00~21:00 (60 min)  
 
 - [Conceitos sobre Hardware](./HardwareExemplos/README.md "Conceitos sobre Hardware") (20 min)  
-  - [Internos](./HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (20 min)  
   - [Externos](./HardwareExemplos/ExemplosExternos.md "Exemplos Externos") (20 min)  
+  - [Internos](./HardwareExemplos/ExemplosInternos.md "Exemplos Internos") (20 min)  
 
 ### Dinâmica - Ideias
 
