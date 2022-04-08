@@ -45,6 +45,6 @@ Medidor de temperatura
 
 Medidor de pressão
 
-- Óculos Google Glass
+- Óculos Google Glass  
 ![Google Glass Aluno](./DispositivosVestiveis_imgs/GloogleGlass_Aluno.png "Google Glass Aluno")
 ![Google Glass Dalton](./DispositivosVestiveis_imgs/GloogleGlass_Dalton.png "Google Glass Dalton")  
