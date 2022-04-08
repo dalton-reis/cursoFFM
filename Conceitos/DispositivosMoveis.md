@@ -97,10 +97,6 @@ Após o desenvolvimento se depara com a etapa de publicação nas lojas, que bas
 
 A maior quantidade de Aplicativos ainda são os jogos, e por um bom tempo será um mercado dominante. Mas as **"modinhas"** atuais são [Realidade Virtual](./RealidadeVirtual.md "Realidade Virtual"), [Internet das Coisas](./InternetDasCoisas.md "Internet das Coisas") e Saúde. Existem produtos (WebSites) que permitem acompanhar estas tendências, como também se tem dados estatísticos disponibilizados quando seu Aplicativo é publicado em uma das lojas oficiais ([Apple](<https://apps.apple.com/> "Apple") e [Google](<https://play.google.com/store> "Google")).  
 
-https://neosus.net/skincheck/#/
-
-Exemplos de uso da Vuforia para Teletrabalho
-
 ## Boas Práticas
 
 Entre o que se pode sugerir como boas práticas para acompanhar está acelerada evolução dos dispositivos móveis destaco:
