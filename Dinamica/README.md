@@ -1,15 +1,23 @@
 # Dinâmica - Ideias
 
-Bom, agora chegou a hora de fazermos uma prova sobre o conteúdo demonstrado .. brincadeira 😁 .. seguindo a nossa agenda iremos fazer uma dinâmica em grupo. Peço que se dividam em quatro equipes, e cada equipe escolha um dos assuntos apresentados.
+Bom, agora chegou a hora de fazermos uma prova sobre o conteúdo demonstrado .. brincadeira 😁 .. seguindo a nossa agenda iremos fazer uma dinâmica em grupo. Peço que se dividam em três grupos e escolham uma ideia que poderia se beneficiar com o uso dos assuntos apresentados com um enfoque na área da saúde (de preferência). Aproveitem para anotarem possíveis dúvidas, curiosidades, inquietações etc, para serem discutidas depois com todos (podem ser questões que não estão diretamente relacionadas com a ideia escolhida).  
+
+Os assuntos são:
 
 - [Realidade Virtual](../Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
 - [Dispositivos Móveis](../Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
 - [Dispositivos Vestíveis](../Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
 - [Internet das Coisas (IOT)](../Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
-E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca de ideias.  
-Escolham uma ideia que poderia se beneficiar com o uso do assunto escolhido na área da saúde (de preferência).  
-E depois formaremos uma *Mesa Redonda* onde a equipe que escolheu o assunto irá apresentar suas inquietudes.  
+Uma sugestão seria usar o Post-It no Google Keep:
+
+- Na Web: <https://keep.google.com>  
+- No Android: <https://g.co/keep>  
+- No Google Chrome: <https://g.co/keepinchrome>  
+
+E aceitar o convite enviado pelo professor.  
+
+E depois formaremos uma *Mesa Redonda* onde a equipe cada equipe irá expor suas ideias a serem discutidas com o grande grupo.  
 
     21:00~22:00 (60 min)   
 
