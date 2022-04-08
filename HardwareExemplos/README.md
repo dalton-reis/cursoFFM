@@ -27,29 +27,26 @@ Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temo
 
 Curiosidade: surgiu em 1967  
 
-Alguns usos comuns dos HMD:
+Os HMDs podem ser um simples suporte para fixar o smartphone com quase nenhum componente eletrônico embarcado. Por exemplo algo deste tipo:  
+![Óculos Brasileiro](./Hardware_imgs/OculusQualquer.png "Óculos Brasileiro")  
 
-- Oculus Quest - Cinema  
-- DeskTop do Computador (substituir a interface dos sistenas operacionais)  
+Bom, na verdade algo deste tipo:  
+![Óculos CardBoard](./Hardware_imgs/OculosGoogleCardBoard.png "Óculos CardBoard")  
 
+Ou então o HMD ser uma unidade independente que não precise de um Smartphone:  
+Óculos Rift  
+![Óculos Rift](./Hardware_imgs/OculosRift.png "Óculos Rift")  
 
-### Mais encorpados
+Óculos GearVR - Samsung  
+![Óculos GearVR](./Hardware_imgs/OculosSamsungGearVR.png "Óculos GearVR")  
 
-[Oculus Rift](HardwareExemplos/OculusRift.png "Oculus Rift")  
-<https://www.roadtovr.com/oculus-rift-s-specs-release-date-announcement-gdc-2019/>  
-  
-Oculos Quest (Facebook)
+Óculos Quest - Facebook  
+![Óculos Quest - Facebook](./Hardware_imgs/OculusQuest2.png "Óculos Quest - Facebook")  
 
-Oculs Hole Lens (Microsoft)
+Óculos Hole Lens - Microsoft  
+![Óculos Hole Lens - Microsoft](./Hardware_imgs/OculusHololens.png "Óculos Hole Lens - Microsoft")  
 
-![OculosHoloLens2.mp4](HardwareExemplos/OculosHoloLens2.mp4 "OculosHoloLens2.mp4")  
-<https://youtu.be/uIHPPtPBgHk>
-
-Apple .. só especulação
-
-### Só um suporte
-
-Usar o smartphone como Unidade de Realidade Virtual
+E da Apple .. só especulação.  
 
 ### Luva de Dados (Data Glove)
 
