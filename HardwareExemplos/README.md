@@ -7,32 +7,25 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
 - Dimensão da informação: 1D, 2D, 2D 1/2, 3D, 4D, 5D .. nD  
 - Tipo de Referência: absoluta / relativa  
-- Etapas: entrada / Processo / Saída  
+- Etapas: Entrada / Processo / Saída  
 
 ![etapas](EPS.drawio.svg "etapas")  
 
-Obtida: capacete (mais comum) ou com salas de projeção
+Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
 
-Além do fator visual, os outros dispositivos, ligados aos sentidos restantes também são importantes, pois é necessário detectar a posição da pessoa, os controles reativos, etc.
-
-# Exemplos de Hardware
-
-    20:00~20:20 (20 min)  
-
-: equipamentos e periféricos
-
-Quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
-
-- [Realidade Virtual](RealidadeVirtual.md "Conceitos sobre Realidade Virtual")  
-- [Dispositivos Móveis](DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-  - Vestíveis (wearables)  
-- [Internet das Coisas (IOT)](InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
+- [Realidade Virtual (RV)](./Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
+- [Dispositivos Móveis](./Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+- [Dispositivos Vestíveis](./Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+- [Internet das Coisas (IOT)](./Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)")  
 
 ## Óculos de Realidade Virtual (HMD - Head-Mounted Display)
 
-    Dispositivo de Saída (alguns permitem entrada)  
-  
-- surgiu em 1967  
+    Tipo de informação: raster  
+    Dimensão da informação: 2D
+    Tipo de Referência: absoluta  
+    Etapas: Saída (alguns são: E/P/S)
+
+Curiosidade: surgiu em 1967  
 
 Alguns usos comuns dos HMD:
 
