@@ -87,17 +87,10 @@ Uma outra opção seria o LeapMotion que também permite capturar os gestos das 
 ![Exemplo de uso LeapMotion Cat Explorer](./Hardware_imgs/LeapMotion_Cat.mov "Exemplo de uso LeapMotion Cat Explorer")  
 [Exemplo de uso LeapMotion Cat Explorer](<https://www.youtube.com/watch?v=uBvNbpNTGrI> "Exemplo de uso LeapMotion Cat Explorer")  
 
-## Marcador no [Mundo Real](../Conceitos/RealidadeVirtual.md#mundo-real "Mundo Real")
-
-Outro grupo interessante que está cada vez mais tendo avanços são os 
-
 ### Beacons
 
 Outro grupo interessante de hardwares são os Beacons que permite georreferenciar uma posição do mundo real utilizando uma conexão bluetooth. Existem vários tipos de Beacons como pode ser visto abaixo.  
-
-Tipos de Beacons  
-
-Imagen TCC Klaus beacon miguel
+![Tipos de Beacons](./Hardware_imgs/Beacons.png "Tipos de Beacons")  
 
 E recentemente se tem uma opção da Samsung e da Apple (AirTag).  
 ![AirTag](./Hardware_imgs/AirTag.png "AirTag")  
