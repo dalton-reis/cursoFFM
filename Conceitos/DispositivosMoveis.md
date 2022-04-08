@@ -88,7 +88,8 @@ Algumas opções de programação mais "alto nível" ([low-code](<https://en.wik
 
 - Atalhos ([Shortcuts](<https://en.wikipedia.org/wiki/Shortcuts_(app)> "Shortcuts"))  
 - Saúde ([Health](<https://en.wikipedia.org/wiki/Health_(Apple)> "Health"))  
-- Carteira ([Wallet](<https://pt.wikipedia.org/wiki/Apple_Wallet> "Wallet"))
+- Carteira ([Wallet](<https://pt.wikipedia.org/wiki/Apple_Wallet> "Wallet"))  
+- [Handoff](<https://support.apple.com/pt-br/HT209455> "Handoff")  
 
 ## Mercado Móvel
 
