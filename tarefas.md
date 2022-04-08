@@ -2,31 +2,30 @@
 
 ## Material para demonstração
 
-- óculos de estereoscopia: anaglifo, passivo e ativo
-- webcam com fio
-- drone mochila
-- cabo iPad (meu com mal contato)
-- AirTag (bicicleta)
-- aquário virtual
-- projeto mini
-- celular + projetor
-
-## fazer
-
-[ ] caixa SonOff, fechadura elétrica, aparelho pressão, aparelho termômetro
-[ ] imprimir quatro folhas para dobrar em forma de triângulo com o nome do seu grupo  
-[ ] pasta com marcadores  
-[ ] instalar no celular Sistema Solar / TorreDefender (marcador grande)  
-[ ] OsmoPlay (Esteriótipo do Espelho - IUT)  
-[ ] Ter num Android o ARvore TCC Bruno
-
+CASA
+[x] aparelho termômetro
+[x] aparelho pressão
+[x] OsmoPlay (Esteriótipo do Espelho - IUT)  
+[x] Extensão de Luz
+[x] Meu TimeCapsule
+[x] Meu iTV
 .. deixar projetando os TCCs (/Volumes/HD_APOIO/GIT/TCC/TCCs_Imgs_Movendo.key) ou proteção tela iTV  
-Levar um tablet para cada Equipe
-Levar um NB para cada Equipe
-CArregador NB e TAblet
-Cabos
-Extensão de Luz
-Meu TimeCapsule
-Suporte do Celular
-Caixa de Som
-Bolsa minha com placa do Miguel e sensor de presença
+[x] Suporte do Celular
+[x] Caixa de Som
+[x] Bolsa minha com placa do Miguel e sensor de presença
+[x] fechadura elétrica
+[ ] AirTag (bicicleta)
+
+LIFE
+[ ] celular + projetor
+[ ] drone mochila
+[ ] óculos de estereoscopia: anaglifo, passivo e ativo (dois óculos fica escuro)
+[ ] instalar no celular Sistema Solar (Android)
+[ ] Ter num Android o ARvore TCC Bruno
+[ ] Levar um tablet para cada Equipe, Carregador Tablet  
+[ ] TorreDefender (marcador grande)  
+
+S-412
+[ ] caixa SonOff
+[ ] aquário virtual
+[ ] pasta com marcadores  
