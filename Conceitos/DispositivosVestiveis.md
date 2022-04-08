@@ -30,7 +30,7 @@ Bom, alguns exemplo ...
   - [Pulseira Inteligente Mi Smart Band 5](<https://xiaomidobrasil.com/products/mi-smart-band-5-versao-global?_pos=1&_sid=69c651e06&_ss=r&variant=36268456476837&gclid=CjwKCAjwur-SBhB6EiwA5sKtjnmwPjnyFjfCK2l7M56I_tqHxQv4-203etsFEbZeTrg_btUiF_4cyBoCdN4QAvD_BwE> "Pulseira Inteligente Mi Smart Band 5")  
 ![Pulseira Mi](./DispositivosVestiveis_imgs/BracaderiraMI.png "Pulseira Mi")  
 
-  - Pulseira Embrace ([Empatica](<https://www.empatica.com/>) "Empatica")  
+  - Pulseira Embrace ([Empatica](<https://www.empatica.com/> "Empatica"))  
 ![Pulseira Embrace](./DispositivosVestiveis_imgs/BracaderiraEmbrace.png "Pulseira Embrace")  
 
   - Pulseira Myo  
