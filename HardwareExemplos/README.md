@@ -13,10 +13,10 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 
 Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
 
-- [Realidade Virtual (RV)](./Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
-- [Dispositivos Móveis](./Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
-- [Dispositivos Vestíveis](./Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
-- [Internet das Coisas (IOT)](./Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)")  
+- [Realidade Virtual (RV)](../Conceitos/RealidadeVirtual.md "Conceitos sobre Realidade Virtual (RV)")  
+- [Dispositivos Móveis](../Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+- [Dispositivos Vestíveis](../Conceitos/DispositivosVestiveis.md "Conceitos sobre Dispositivos Vestíveis")  
+- [Internet das Coisas (IOT)](../Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas (IOT)")  
 
 ## Óculos de Realidade Virtual (HMD - Head-Mounted Display)
 
