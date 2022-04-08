@@ -22,23 +22,33 @@ Depois temos a **central controladora local**, que pode ou não existir de forma
 
 E por fim se tem os **equipamentos eletrônicos**, que podem ter mais ou menos integração com IoT. E podem usar um protocolo de próprio de interface ou seguir algum padrão, como o [HomeKit](<https://en.wikipedia.org/wiki/HomeKit> "HomeKit") da Apple.  
 
-(IOT)  
+Alguns exemplos Externos
 
-    o que é  
-    pontos positivos  
-    pontos negativos  
-    linha do tempo: passado / atual / .. futuro  
+- Fechadura Automática  
+![Fechadura Automática](./InternetDasCoisas_imgs/Fechadura_BLE.mov "Fechadura Automática")  
 
+- Controle de Luz  
+![Controle de Luz](./InternetDasCoisas_imgs/Luz_BLE.png "Controle de Luz")  
 
-Exemplos do Aquário Virtual
+- Pular Corda  
+![Pular Corda](./InternetDasCoisas_imgs/PularCorda_BLE.png "Pular Corda")  
+![Pular Corda](./InternetDasCoisas_imgs/PularCorda_BLE.mov "Pular Corda")  
 
-Placas Arduino (coração)
+- SonOff  
+![SonOff](./InternetDasCoisas_imgs/SonOff.mov "SonOff")  
 
-Kits de sensores e atuadores
+- Teclado Virtual  
+![Teclado Virtual](./InternetDasCoisas_imgs/TecladoVirtual.png "Teclado Virtual")  
 
-<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2019i-jader-a-tomelin---touch-braile-equipamento-acess%C3%ADvel>
+Alguns exemplo Internos:
 
-<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2019ii-william-l-da-silva---blackglasses-assistente-para-deficientes-visuais-via-geolocalização>
+- Aquário Virtual
+![Aquário Virtual](./InternetDasCoisas_imgs/AquarioVirtual.png "Aquário Virtual")  
+
+- [Motor Agulha Braile](./InternetDasCoisas_imgs/MotorAgulhaBraile.png "")  
+- [Braille Equipamento](<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#braille-equipamento> "Braille Equipamento")  
+
+- [BlackGlasses](<https://github.com/dalton-reis/programa_EducacaoEspecial/blob/main/Braille.md#tcc-link-2019ii-william-l-da-silva---blackglasses-assistente-para-deficientes-visuais-via-geolocalização> "BlackGlasses")  
 
 ----------
 
