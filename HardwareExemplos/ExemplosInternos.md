@@ -2,10 +2,7 @@
 
     20:20~20:40 (20 min)  
 
-: produzidos no nosso grupo
-
-produzidos no nosso Grupo  
-
+Alguns exemplos produzidos pelo nosso grupo de pesquisa com a participação de vários alunos.  
 
 Exemplo da Caixa da Areia
 <http://caixae-agua.blogspot.com>
