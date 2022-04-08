@@ -58,6 +58,9 @@ E da Apple .. só especulação.
 Mas se uso é bem antigo, e pode ser associado com outras formas para permitir explorar os outros sentidos, como visto nesta simulação de treinamento de paraquedistas.
 ![TreinamentoParaquedas](./Hardware_imgs/Oculus_TreinamentoParaquedas.png "TreinamentoParaquedas")  
 
+Ou num treinamento militar com a opção de se "movimentar sem sair do lugar" ([Virtusphere](<https://pt.wikipedia.org/wiki/VirtuSphere>) "Virtusphere").  
+![Virtusphere](./Hardware_imgs/Oculus_VirtuSphere.png "Virtusphere")  
+
 ### Luva de Dados (Data Glove)
 
   
