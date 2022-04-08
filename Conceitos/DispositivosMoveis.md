@@ -34,6 +34,12 @@ Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Micro
 
 ### Reconhecimento por Imagem ou Sensores a laser
 
+Alguém sabe me dizer porque um smartphone precisa ter tantas câmeras? Bom, posso não saber, mas ter um aparelho com várias câmeras está na "moda", então deve ser "bom" (ah, e eu também quero um assim 🤩 ). Vamos com calma, podemos a grosso modo dividir os tipos de câmeras em dois grupos, as com objetivo de transformar o seu aparelho em um Studio Móvel que nem a MGM tinha uns anos atrás, e outras com objetivo de dar o "poder" ao seu aparelho de além enxergar, pode ver o mundo a sua volta.  
+
+E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos de inferência sobre o que se vê por intermédio do aparelho. Além dos usos de Visão Computacional (VC), se tem um avanço **enorme** na [Realidade Virtual](./RealidadeVirtual.md#conceitos-realidade-virtual-rv "Realidade Virtual"). O que permite se ter com duas câmera a percepção de profundidade usando a mesmo conceito da [Estereoscopia](./RealidadeVirtual.md#estereoscopia "Estereoscopia"), o que se conhece como Câmera _Truedepth_, possibilitando funcionalidades como o [_Face ID_](<https://pt.wikipedia.org/wiki/Face_ID> "Face ID") (Apple).
+
+E estas câmeras nos aparelhos móveis já podem vir com sensores a laser, parecido com a tecnologia usada nos [sensores do Kinect](<https://pt.wikipedia.org/wiki/Kinect> "sensores do Kinect").
+
 ### Futuro do Hardware Móvel
 
 Espero pode presenciar algo parecido com este projeto de conceito futurístico.  
