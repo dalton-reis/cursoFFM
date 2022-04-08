@@ -3,22 +3,11 @@
 Para facilitar o entendimento de algumas tecnologias um pouco mais complexas podemos abstrair em algumas separações mais simples:
 
 - Etapas: entrada / Processo / Saída  
-![etapas](EPS.drawio.svg "etapas")  
-  
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
-  - Sistemas Multimidia
-    - texto (OCR)
-    - imagem
-    - audio
-    - video
-    - stremming
-  
-- Dimensão da informação: 1D, 2D, 2D 1/2, 3D, 4D, 5D .. nD
-  
-imagem dos eixos em CG, em Física e Medicina
-
+- Dimensão da informação: 1D, 2D, 2D 1/2, 3D, 4D, 5D .. nD  
 - Tipo de Referência: absoluta / relativa  
 
+![etapas](EPS.drawio.svg "etapas")  
 a complexidade da tecnologia pensando 
 
 Obtida: capacete (mais comum) ou com salas de projeção
@@ -107,11 +96,11 @@ https://everypoint.medium.com/everypoint-gets-hands-on-with-apples-new-lidar-sen
 
 ### Apple Watch
 
-### Braçadera Myo
+### Braçadeira Myo
 
 ### Fones de Ouvido localização Espacial
 
 ### Acelerômetro
 
-É um dispositivo usado para medir a aceleração própria de um sistema (explicação do "copo de água").
+É um dispositivo usado para medir a aceleração própria de um sistema (explicação do "copo de água").  
 ![Acelerômetro](./Hardware_imgs/Acelerometro.png "Acelerômetro")  
