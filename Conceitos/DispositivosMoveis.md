@@ -36,9 +36,9 @@ Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Micro
 
 Alguém sabe me dizer porque um smartphone precisa ter tantas câmeras? Bom, posso não saber, mas ter um aparelho com várias câmeras está na "moda", então deve ser "bom" (ah, e eu também quero um assim 🤩 ). Vamos com calma, podemos a grosso modo dividir os tipos de câmeras em dois grupos, as com objetivo de transformar o seu aparelho em um Studio Móvel que nem a MGM tinha uns anos atrás, e outras com objetivo de dar o "poder" ao seu aparelho de além enxergar, pode ver o mundo a sua volta.  
 
-E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos de inferência sobre o que se vê por intermédio do aparelho. Além dos usos de Visão Computacional (VC), se tem um avanço **enorme** na [Realidade Virtual](./RealidadeVirtual.md#conceitos-realidade-virtual-rv "Realidade Virtual"). O que permite se ter com duas câmera a percepção de profundidade usando a mesmo conceito da [Estereoscopia](./RealidadeVirtual.md#estereoscopia "Estereoscopia"), o que se conhece como Câmera _Truedepth_, possibilitando funcionalidades como o [_Face ID_](<https://pt.wikipedia.org/wiki/Face_ID> "Face ID") (Apple).
+E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos de inferência sobre o que se vê por intermédio do aparelho. Além dos usos de Visão Computacional (VC), se tem um avanço **enorme** na [Realidade Virtual](./RealidadeVirtual.md#conceitos-realidade-virtual-rv "Realidade Virtual"). O que permite se ter com duas câmera a percepção de profundidade usando a mesmo conceito da [Estereoscopia](./RealidadeVirtual.md#estereoscopia "Estereoscopia"), o que se conhece como Câmera _Truedepth_, possibilitando funcionalidades como o [_Face ID_](<https://pt.wikipedia.org/wiki/Face_ID> "Face ID") (Apple).  
 
-E estas câmeras nos aparelhos móveis já podem vir com sensores a laser, parecido com a tecnologia usada nos [sensores do Kinect](<https://pt.wikipedia.org/wiki/Kinect> "sensores do Kinect").
+E estas câmeras nos aparelhos móveis já podem vir com sensores a laser, parecido com a tecnologia usada nos [sensores do Kinect](<https://pt.wikipedia.org/wiki/Kinect> "sensores do Kinect"), o sensor [LiDAR](<https://pt.wikipedia.org/wiki/LIDAR> "LiDAR").  
 
 ### Futuro do Hardware Móvel
 
@@ -54,7 +54,32 @@ Atualmente temos duas grandes opções para desenvolver aplicações móveis. O 
 
 ### Desenvolvimento Nativo
 
+Quando se menciona em desenvolver nativamente significa que se usa o ambiente oferecido por uma plataforma (seja Apple ou Android) gerando uma aplicação somente para aquela plataforma. O desenvolvimento Nativo atualmente pode ser feito com:
+
+- [Swift](<https://www.apple.com/br/swift/> "Swift") (Apple)  
+- [Kotlin](<https://developer.android.com/kotlin?hl=pt-br> "Kotlin") (Android)  
+
+Alguns aspectos devem ser considerados:
+
+- vantagem por estar sempre atualizado com os avanços do hardware do aparelho e Sistema Operacional  
+- desvantagem em ter que se manter uma equipe de desenvolvimento específica para plataforma escolhida (iOS ou Android)  
+
 ### Desenvolvimento Multiplataforma
+
+Já a opção Multiplataforma se usa um ambiente que permite um único desenvolvimento, mas gerando uma aplicação para a plataforma Apple e outra aplicação para Android. Existem várias opções:
+
+- Unity
+- Flutter
+- React Native (Facebook)
+- Ionic
+- Embarcadero (Delphi)
+
+Alguns aspectos devem ser considerados:
+
+- vantagem por estar sempre atualizado com os avanços do hardware do aparelho e Sistema Operacional  
+- desvantagem em ter que se manter uma equipe de desenvolvimento específica para plataforma escolhida (iOS ou Android)  
+
+
 
 ### Desenvolvimento direto com o Usuário
 
