@@ -15,8 +15,8 @@ E depois formaremos uma *Mesa Redonda* onde a equipe que escolheu o assunto irá
 
 - Mediador: Dalton (separar em 4 equipes)  
   - (15 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
-  - (10 min) grupo Realidade Virtual  
-  - (10 min) grupo Dispositivos Móveis  
-  - (10 min) grupo Dispositivos Vestíveis  
-  - (10 min) grupo Internet das Coisas  
-    - (5 min) Fechamento geral  
+    - (10 min) grupo Realidade Virtual  
+    - (10 min) grupo Dispositivos Móveis  
+    - (10 min) grupo Dispositivos Vestíveis  
+    - (10 min) grupo Internet das Coisas  
+  - (5 min) Fechamento geral  
