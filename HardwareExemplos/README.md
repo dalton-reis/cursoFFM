@@ -2,10 +2,10 @@
 
 Para facilitar o entendimento de algumas tecnologias um pouco mais complexas podemos abstrair em algumas separações mais simples:
 
-- Etapas: entrada / Processo / Saída  
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
 - Dimensão da informação: 1D, 2D, 2D 1/2, 3D, 4D, 5D .. nD  
 - Tipo de Referência: absoluta / relativa  
+- Etapas: entrada / Processo / Saída  
 
 ![etapas](EPS.drawio.svg "etapas")  
 a complexidade da tecnologia pensando 
