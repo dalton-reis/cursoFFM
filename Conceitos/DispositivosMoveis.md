@@ -8,9 +8,11 @@ Em relação ao Hardware o que se presencia é uma constante evolução e adoç�
 
 Mas além da capacidade de aumentar o poder de processamento, ainda em paralelo se tem a miniaturização destes componentes, tornando cada vez mais possível o uso de equipamentos móveis vestíveis, os _wearables_ ([nosso próximo assunto](./DispositivosVestiveis.md "nosso próximo assunto")).  
 
-Um aspecto importante a ser observado são as novas (não tão novas, mas sim cada vez mais factíveis) de interagir com estes dispositivos móveis. Como por exemplo, novas opções de tela, gestos, comandos por voz, reconhecimento por imagem, sensores a laser, e outros que ainda podem vir.
+Um aspecto importante a ser observado são as novas (não tão novas, mas sim cada vez mais factíveis) de interagir com estes dispositivos móveis. Como por exemplo, novas [opções de tela](#opções-de-tela "opções de tela"), [gestos](#uso-de-gestos "gestos"), [comandos por voz](#comandos-por-voz "comandos por voz"), [reconhecimento por imagem e/ou sensores a laser](#reconhecimento-por-imagem-ou-sensores-a-laser "reconhecimento por imagem e/ou sensores a laser"), e outros que ainda podem vir.
 
-- Opções de Tela: impressiona, mas ainda vai ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. E quem sabe, talvez, um smartphone com tela infinita.  
+### Opções de Tela
+
+As quantidade e variedade de opções de Telas disponíveis atualmente impressiona, mas ainda pode ficar melhor. Hoje se deve considerar resolução, quantidade de cores, contraste, durabilidade etc. E quem sabe, talvez, um smartphone com tela infinita.  
 ![Xiaomi MI Mix Alpha](./DispositivosMoveis_imgs/Xiaomi_Tela.mov "Xiaomi MI Mix Alpha")  
 
 Bom, se especulando, a pergunta que também se deveria fazer e se no "futuro" os nossos Smartphones ainda terão alguma tela.  
@@ -30,9 +32,7 @@ Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Micro
 - gradual aceite do usuário, ter de conversar com uma máquina.  
 - melhora significativa no reconhecimento ([Speech-To-Text](<https://pt.wikipedia.org/wiki/Reconhecimento_de_fala> "Speech-To-Text")), síntese ([Text-To-Speech](<https://pt.wikipedia.org/wiki/S%C3%ADntese_de_fala> "Text-To-Speech"))  e interpretação de contexto usando o audio.  
 
-### Reconhecimento por Imagem
-
-### Sensores a laser
+### Reconhecimento por Imagem ou Sensores a laser
 
 ### Futuro do Hardware Móvel
 
@@ -83,3 +83,4 @@ Entre o que se pode sugerir como boas práticas para acompanhar está acelerada 
 - a grande variedade de especificações em uso. Antes que perguntem, é quase impossível executar uma aplicação de [Realidade Aumentada](./RealidadeVirtual.md#realidade-virtual-aumentada-ra "Realidade Aumentada") (RA) num Nokia "tijolão". Use como uma "arma" de defesa pessoal, mas não para RA.  
 - inove, mas não "reme contra a corrente" .. é cansativo e se perder clientes.  
 - não reinvente a "roda", porque gastar recursos (tempo, verba etc.) para refazer o que o próprio [Hardware](#hardware-móvel "Hardware"), Sistema Operacional ou [Ambiente de Desenvolvimento](#software-móvel "Ambiente de Desenvolvimento") já oferecem como solução.  
+- lembrar dos "vilões" dos dispositivos móveis: consumo de energia, falta de conectividade, problemas com privacidade, dependência para viver, etc.
