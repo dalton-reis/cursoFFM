@@ -41,9 +41,11 @@ Bom, alguns exemplo ...
 ![Apple AirPods Max](./DispositivosVestiveis_imgs/AppleAirPodsMax.png "Apple AirPods Max")
 ![Apple AirPods Max](./DispositivosVestiveis_imgs/AppleAirPodsMax_Interno.png "Apple AirPods Max")  
 
-Medidor de temperatura
+- Medidor de Temperatura  
+![Medidor Temperatura](./DispositivosVestiveis_imgs/Termometro_BLE.png "Medidor Temperatura")  
 
-Medidor de pressão
+Medidor de Pressão  
+![Medidor Pressão](./DispositivosVestiveis_imgs/Pressao_BLE.png "Medidor Pressão")  
 
 - Óculos Google Glass  
 ![Google Glass Aluno](./DispositivosVestiveis_imgs/GloogleGlass_Aluno.png "Google Glass Aluno")
