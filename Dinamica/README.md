@@ -8,25 +8,13 @@ Bom, agora chegou a hora de fazermos uma prova sobre o conteúdo demonstrado .. 
 - [Internet das Coisas (IOT)](../Conceitos/InternetDasCoisas.md "Conceitos sobre Internet das Coisas")  
 
 E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca de ideias.  
-
-Escolham um ideia que poderia se beneficiar com o uso do assunto escolhido na área da sua área da saúde (de preferência).  
-
-Gerar um link e um QR-Code para cada Equipe
-
-Na minha home as instruções
-Link e QRCode - No PsotItGoogle o que eles escrevrem
-
-
-formando uma *Mesa Redonda* onde a equipe que escolheu o assunto irá apresentar suas inquietudes.
+Escolham uma ideia que poderia se beneficiar com o uso do assunto escolhido na área da saúde (de preferência).  
+E depois formaremos uma *Mesa Redonda* onde a equipe que escolheu o assunto irá apresentar suas inquietudes.  
 
 - Mediador: Dalton (separar em 4 equipes)  
-  - (10 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
+  - (15 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
   - (10 min) grupo Realidade Virtual  
   - (10 min) grupo Dispositivos Móveis  
   - (10 min) grupo Dispositivos Vestíveis  
   - (10 min) grupo Internet das Coisas  
-    - (10 min) Fechamento geral  
-
-
-Tentar preparar uma lista de perguntas para eles se fazerem 
-Pensar em uma possibilidade para aplicar o assunto apresentado do grupo escolhido.  
+    - (5 min) Fechamento geral  
