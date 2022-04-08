@@ -120,3 +120,7 @@ Entre o que se pode sugerir como boas práticas para acompanhar está acelerada 
 - inove, mas não "reme contra a corrente" .. é cansativo e se perder clientes.  
 - não reinvente a "roda", porque gastar recursos (tempo, verba etc.) para refazer o que o próprio [Hardware](#hardware-móvel "Hardware"), Sistema Operacional ou [Ambiente de Desenvolvimento](#software-móvel "Ambiente de Desenvolvimento") já oferecem como solução.  
 - lembrar dos "vilões" dos dispositivos móveis: consumo de energia, falta de conectividade, problemas com privacidade, dependência para viver, etc.
+
+----------
+
+## ⏭ [Dispositivos Vestíveis (DV)](./DispositivosVestiveis.md "Dispositivos Vestíveis (DV)")  

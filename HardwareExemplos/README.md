@@ -108,5 +108,9 @@ Explicação do "copo de água".
 
 Alguns exemplos de uso dos Hardwares.  
 
-- [Exemplos Externos](./ExemplosExternos.md "Exemplos Externos")  
-- [Exemplos Internos](./ExemplosInternos.md "Exemplos Internos")  
+- [Exemplos Externos](./ExemplosExternos/ "Exemplos Externos")  
+- [Exemplos Internos](./ExemplosInternos/ "Exemplos Internos")  
+
+----------
+
+## ⏭ [Dinâmica - Ideias](../README.md#dinâmica---ideias "Dinâmica - Ideias")  
