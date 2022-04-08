@@ -44,6 +44,11 @@ E esse "poder" começa a permitir que mesmo num aparelho móvel se use processos
 
 E estas câmeras nos aparelhos móveis já podem vir com sensores a laser, parecido com a tecnologia usada nos [sensores do Kinect](<https://pt.wikipedia.org/wiki/Kinect> "sensores do Kinect"), o sensor [LiDAR](<https://pt.wikipedia.org/wiki/LIDAR> "LiDAR").  
 
+Exemplo de uso do LiDAR no iPad.  
+![LiDAR no iPad](./DispositivosMoveis_imgs/LiDAR.mov "LiDAR no iPad")  
+
+Neste artigo, [EveryPoint Gets Hands-On with Apple’s New Lidar Sensor](<https://everypoint.medium.com/everypoint-gets-hands-on-with-apples-new-lidar-sensor-44eeb38db579> "EveryPoint Gets Hands-On with Apple’s New Lidar Sensor"), mostra como o LiDAR pode contribuir para [Realidade Virtual Imersiva](./RealidadeVirtual.md#realidade-virtual-imersiva-rv--rvi "Realidade Virtual Imersiva") e [Realidade Aumentada](./RealidadeVirtual.md#realidade-virtual-aumentada-ra "Realidade Aumentada") consegue obter em tempo real os dados 3D e serem processados pelo ARKit, além de poder obter a cor e intensidade de luz do ambiente real.  
+
 ### Futuro do Hardware Móvel
 
 Em resumo, se tem várias formas de "entrada" e "saída" de informação nos aparelhos móveis, como pode ser observado:
