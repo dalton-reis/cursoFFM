@@ -20,6 +20,9 @@ Bom, se especulando, a pergunta que também se deveria fazer e se no "futuro" os
 Outro aspecto que se começou a ser explorado e o uso de gestos para interagir com o Smartphone. Desde de algumas tentativas não muito aceitas pelos usuários, como: poder rolar a tela com gesto da mão ou com a mudança do ponto de vista dos olhos, até sacudidelas (desfazer uma ação sacudindo o aparelho - iOS) que ainda estão em uso. Ou ainda, projeto com ações mais "descoladas" do aparelho, como o Google Soli Watch by LG Hands-On by ATAP.  
 ![Google Sole Watch](./DispositivosMoveis_imgs/GoogleSoliWatch.mov "Google Sole Watch")  
 
+Ou algo mais recente como poder controlar o Apple Watch só usando gestos da sua mão ([Watch Assistive Touch](<https://tecnoblog.net/noticias/2021/05/19/apple-watch-tera-recurso-para-ser-controlado-sem-tocar-na-tela/> "Watch Assistive Touch")).  
+![Watch Assistive Touch](./DispositivosMoveis_imgs/WatchApple_Gestos.mov "Watch Assistive Touch")  
+
 ### Comandos por Voz
 
 Bom, qual assistente usar, temos: [Cortana](<https://pt.wikipedia.org/wiki/Microsoft_Cortana> "Cortana") (Microsoft), [Google Now](<https://pt.wikipedia.org/wiki/Google_Assistente> "Google Now") (Google), [Alexa](<https://pt.wikipedia.org/wiki/Amazon_Alexa> "Alexa") (Amazon), e a [Siri](<https://pt.wikipedia.org/wiki/Siri_(software)> "Siri") (Apple). Com tantas assistentes disponíveis, e cada vez mais se evoluindo, imagino que a curto prazo não precisaremos mais "trabalhar". Bom, cuidado com a volta do "Exterminador do Futuro" ... brincadeira, ainda estamos passando por um processo de evolução. Algumas características que marcam este avanço são:
