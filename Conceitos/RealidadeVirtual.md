@@ -1,5 +1,7 @@
 # Conceitos: Realidade Virtual (RV)
 
+    18:25~19:05 (40 min)  
+
 No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
 
 ## Termos

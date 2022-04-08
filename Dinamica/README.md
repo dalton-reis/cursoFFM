@@ -11,6 +11,8 @@ E com a equipe formada e o assunto escolhido, vamos nos preparar para uma troca 
 Escolham uma ideia que poderia se beneficiar com o uso do assunto escolhido na área da saúde (de preferência).  
 E depois formaremos uma *Mesa Redonda* onde a equipe que escolheu o assunto irá apresentar suas inquietudes.  
 
+    21:00~22:00 (60 min)   
+
 - Mediador: Dalton (separar em 4 equipes)  
   - (15 min) [Preparação das ideias para discussão](Dinamica.md "Preparação das ideias para discussão")  
   - (10 min) grupo Realidade Virtual  

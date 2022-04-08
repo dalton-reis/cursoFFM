@@ -1,4 +1,8 @@
-# Dispositivos Vestíveis (wearables)
+# Conceitos: Dispositivos Vestíveis (DV)
+
+  19:20~19:30 (10 min)  
+
+(wearables)
 
 Apple Watch
 

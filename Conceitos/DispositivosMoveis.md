@@ -1,5 +1,7 @@
 # Conceitos: Dispositivos Móveis (DM)
 
+    19:05~19:20 (15 min)  
+
 Ao se falar em Dispositivos Móveis pode se pensar em várias questões que envolvam está área. Por exemplo, Hardware envolvido, formas de desenvolver os Aplicativos (Software), e uso e aceitação no Mercado.  
 
 ## Hardware Móvel

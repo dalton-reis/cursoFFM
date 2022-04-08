@@ -1,5 +1,7 @@
 # Hardware e Exemplos
 
+    20:00~20:20 (20 min)  
+
 Para facilitar o entendimento de algumas tecnologias um pouco mais complexas podemos abstrair em algumas separações mais simples:
 
 - Tipo de informação: raster (pixels/voxels) ou vetorial  
@@ -8,7 +10,6 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Etapas: entrada / Processo / Saída  
 
 ![etapas](EPS.drawio.svg "etapas")  
-a complexidade da tecnologia pensando 
 
 Obtida: capacete (mais comum) ou com salas de projeção
 

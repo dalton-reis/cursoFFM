@@ -1,5 +1,7 @@
 # Conceitos
 
+    18:20~18:25 (5 min)  
+
 Bom, vamos retomar a questão inicial proposta  
 
   *"Como utilizar ou integrar ao dia-a-dia Realidade Virtual, Internet das coisas (IOT), wearables, Blockchain e Robotics, assim como outras tecnologias em desenvolvimento.*  

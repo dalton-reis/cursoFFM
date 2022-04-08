@@ -1,4 +1,8 @@
-# Internet das Coisas (IOT)  
+# Conceitos: Internet das Coisas (IC)
+
+  19:30~19:40 (10 min)  
+
+(IOT)  
 
     o que é  
     pontos positivos  
