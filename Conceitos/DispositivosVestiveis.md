@@ -37,7 +37,7 @@ Bom, alguns exemplo ...
 ![Pulseira Myo](./DispositivosVestiveis_imgs/BracaderiraMyo.png "Pulseira Myo")  
 ![Pulseira Myo Dalton](../HardwareExemplos/ExemplosInternos/BracadeiraMyo.mov  "Pulseira Myo Dalton")  
 
-- Fones de Ouvido Espacial ([Apple AirPods Max](<https://www.apple.com/br/airpods-max/>) "https://www.apple.com/br/airpods-max/")  
+- Fones de Ouvido Espacial ([Apple AirPods Max](<https://www.apple.com/br/airpods-max/> "https://www.apple.com/br/airpods-max/"))  
 ![Apple AirPods Max](./DispositivosVestiveis_imgs/AppleAirPodsMax.png "Apple AirPods Max")
 ![Apple AirPods Max](./DispositivosVestiveis_imgs/AppleAirPodsMax_Interno.png "Apple AirPods Max")  
 
