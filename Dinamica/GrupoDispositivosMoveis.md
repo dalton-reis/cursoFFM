@@ -1,17 +1,28 @@
-Acessar google PostIt para cada um e depois juntar no final ... salvar como pdf e o arquivo como fiz no estudo sobre TCC1 do Maurício
+# Grupo Dispositivos Móveis (GDM)
 
+## Post-It no Google Keep
 
+Bom, inicialmente o grupo deve acessar o Google Keep:
 
-Integrantes
+- Na Web: <https://keep.google.com>  
+- No Android: <https://g.co/keep>  
+- No Google Chrome: <https://g.co/keepinchrome>  
 
-Ideia
+Aceitando o convite enviado pelo professor.  
 
+## Integrantes
 
-- [Dispositivos Móveis](Conceitos/DispositivosMoveis.md "Conceitos sobre Dispositivos Móveis")  
+Nome:  
+Nome:  
+Nome:  
 
-Um exemplo de uso da seu assunto no Geral
-Um exemplo de uso da seu assunto no Medicina
+## Atividade
 
-Ter um ponto a ser explorado no assunto escolhido
-um do hardware
-um do exemplo
+Agora, com os integrantes do seu grupo pense em um exemplo de uso dos [Dispositivos Móveis](../Conceitos/DispositivosMoveis.md "Dispositivos Móveis")  
+
+- no Geral  
+- na Medicina  
+
+## Questões relacionadas aos assuntos  
+
+Quais seriam suas dúvidas, inquietações, comentários, etc relacionadas a um dos assuntos apresentados.  
