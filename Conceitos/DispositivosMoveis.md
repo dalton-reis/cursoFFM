@@ -1,4 +1,4 @@
-# Conceitos: Dispositivos Móveis (DM)
+# Conceitos: Dispositivos Móveis
 
         19:05~19:25 (20 min)  
 

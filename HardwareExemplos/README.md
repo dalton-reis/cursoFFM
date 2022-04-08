@@ -11,13 +11,13 @@ Para facilitar o entendimento de algumas tecnologias um pouco mais complexas pod
 - Tipo de Referência: absoluta / relativa  
 - Etapas: Entrada / Processo / Saída  
 
+![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
+
 As opções melhores são:
 
 - Tipo de informação: raster
 - Dimensão da informação: nD  
 - Tipo de Referência: absoluta relativa  
-
-![etapas](./Hardware_imgs/EPS.drawio.svg "etapas")  
 
 Bom, agora vem a pergunta, quais seriam os equipamentos necessário, ou que temos disponível, para poder usar nas áreas de:
 

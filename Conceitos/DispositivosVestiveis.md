@@ -1,4 +1,4 @@
-# Conceitos: Dispositivos Vestíveis (DV)
+# Conceitos: Dispositivos Vestíveis
 
     19:25~19:35 (10 min)  
 
