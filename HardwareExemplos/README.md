@@ -56,6 +56,9 @@ Ou então o HMD ser uma unidade independente que não precise de um Smartphone:
 Óculos Hole Lens - Microsoft  
 ![Óculos Hole Lens - Microsoft](./Hardware_imgs/OculusHololens.png "Óculos Hole Lens - Microsoft")  
 
+Óculos [Lynx R-1 Headset](<https://www.lynx-r.com> "Lynx R-1 Headset")  
+![Óculos Lynx R-1](./Hardware_imgs/LynxR1.png "Óculos Lynx R-1")  
+
 E da Apple .. só especulação.  
 
 Mas se uso é bem antigo, e pode ser associado com outras formas para permitir explorar os outros sentidos, como visto nesta simulação de treinamento de paraquedistas.
